@@ -1,0 +1,1324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ADM</Machine>
+    <WindowsUser>admon</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>0beca742-2bb9-4c2d-84f6-2d0fce7912da</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x64\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>113C37954C3CF9F81C282478EB620DF9EC17A2FF5EFF85D349C4BA69A770CCF1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>0beca742-2bb9-4c2d-84f6-2d0fce7912da_1.0.0.0_x64__rjajz16ffxeaw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>0beca742-2bb9-4c2d-84f6-2d0fce7912da_rjajz16ffxeaw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>0beca742-2bb9-4c2d-84f6-2d0fce7912da</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Barbouche Hassan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x64\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-16T18:54:14.530</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x64\Debug\App4.exe">
+      <PackagePath>entrypoint\App4.exe</PackagePath>
+      <Modified>2016-02-16T18:54:07.395</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
+      <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
+      <Modified>2016-01-20T08:57:59.427</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\Microsoft.ApplicationInsights.PersistenceChannel\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.PersistenceChannel.dll">
+      <PackagePath>Microsoft.ApplicationInsights.PersistenceChannel.dll</PackagePath>
+      <Modified>2016-01-20T08:58:00.497</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\Microsoft.ApplicationInsights.WindowsApps\1.0.0\lib\win81\Microsoft.ApplicationInsights.Extensibility.Windows.dll">
+      <PackagePath>Microsoft.ApplicationInsights.Extensibility.Windows.dll</PackagePath>
+      <Modified>2016-01-20T08:58:00.914</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
+      <PackagePath>Microsoft.CSharp.dll</PackagePath>
+      <Modified>2016-01-20T08:58:22.632</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\Microsoft.NETCore.Portable.Compatibility\1.0.0\lib\netcore50\System.ComponentModel.DataAnnotations.dll">
+      <PackagePath>System.ComponentModel.DataAnnotations.dll</PackagePath>
+      <Modified>2016-01-20T08:58:11.318</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\Microsoft.NETCore.Portable.Compatibility\1.0.0\lib\netcore50\System.Core.dll">
+      <PackagePath>System.Core.dll</PackagePath>
+      <Modified>2016-01-20T08:58:11.391</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\Microsoft.NETCore.Portable.Compatibility\1.0.0\lib\netcore50\System.dll">
+      <PackagePath>System.dll</PackagePath>
+      <Modified>2016-01-20T08:58:11.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\Microsoft.NETCore.Portable.Compatibility\1.0.0\lib\netcore50\System.Net.dll">
+      <PackagePath>System.Net.dll</PackagePath>
+      <Modified>2016-01-20T08:58:11.548</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\Microsoft.NETCore.Portable.Compatibility\1.0.0\lib\netcore50\System.Numerics.dll">
+      <PackagePath>System.Numerics.dll</PackagePath>
+      <Modified>2016-01-20T08:58:11.648</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\Microsoft.NETCore.Portable.Compatibility\1.0.0\lib\netcore50\System.Runtime.Serialization.dll">
+      <PackagePath>System.Runtime.Serialization.dll</PackagePath>
+      <Modified>2016-01-20T08:58:11.802</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\Microsoft.NETCore.Portable.Compatibility\1.0.0\lib\netcore50\System.ServiceModel.dll">
+      <PackagePath>System.ServiceModel.dll</PackagePath>
+      <Modified>2016-01-20T08:58:11.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\Microsoft.NETCore.Portable.Compatibility\1.0.0\lib\netcore50\System.ServiceModel.Web.dll">
+      <PackagePath>System.ServiceModel.Web.dll</PackagePath>
+      <Modified>2016-01-20T08:58:11.961</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\Microsoft.NETCore.Portable.Compatibility\1.0.0\lib\netcore50\System.Windows.dll">
+      <PackagePath>System.Windows.dll</PackagePath>
+      <Modified>2016-01-20T08:58:11.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\Microsoft.NETCore.Portable.Compatibility\1.0.0\lib\netcore50\System.Xml.dll">
+      <PackagePath>System.Xml.dll</PackagePath>
+      <Modified>2016-01-20T08:58:12.026</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\Microsoft.NETCore.Portable.Compatibility\1.0.0\lib\netcore50\System.Xml.Linq.dll">
+      <PackagePath>System.Xml.Linq.dll</PackagePath>
+      <Modified>2016-01-20T08:58:12.056</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\Microsoft.NETCore.Portable.Compatibility\1.0.0\lib\netcore50\System.Xml.Serialization.dll">
+      <PackagePath>System.Xml.Serialization.dll</PackagePath>
+      <Modified>2016-01-20T08:58:12.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\Microsoft.VisualBasic\10.0.0\lib\netcore50\Microsoft.VisualBasic.dll">
+      <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
+      <Modified>2016-01-20T08:58:22.727</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\Microsoft.Win32.Primitives\4.0.0\lib\dotnet\Microsoft.Win32.Primitives.dll">
+      <PackagePath>Microsoft.Win32.Primitives.dll</PackagePath>
+      <Modified>2016-01-20T08:58:09.793</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.AppContext\4.0.0\lib\netcore50\System.AppContext.dll">
+      <PackagePath>System.AppContext.dll</PackagePath>
+      <Modified>2016-01-20T08:58:21.935</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Collections\4.0.10\lib\netcore50\System.Collections.dll">
+      <PackagePath>System.Collections.dll</PackagePath>
+      <Modified>2016-01-20T08:58:25.654</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Collections.Concurrent\4.0.10\lib\dotnet\System.Collections.Concurrent.dll">
+      <PackagePath>System.Collections.Concurrent.dll</PackagePath>
+      <Modified>2016-01-20T08:58:25.965</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Collections.Immutable\1.1.37\lib\dotnet\System.Collections.Immutable.dll">
+      <PackagePath>System.Collections.Immutable.dll</PackagePath>
+      <Modified>2016-01-20T08:58:27.214</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Collections.NonGeneric\4.0.0\lib\dotnet\System.Collections.NonGeneric.dll">
+      <PackagePath>System.Collections.NonGeneric.dll</PackagePath>
+      <Modified>2016-01-20T08:58:22.086</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Collections.Specialized\4.0.0\lib\dotnet\System.Collections.Specialized.dll">
+      <PackagePath>System.Collections.Specialized.dll</PackagePath>
+      <Modified>2016-01-20T08:58:17.090</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.ComponentModel\4.0.0\lib\netcore50\System.ComponentModel.dll">
+      <PackagePath>System.ComponentModel.dll</PackagePath>
+      <Modified>2016-01-20T08:58:27.621</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.ComponentModel.Annotations\4.0.10\lib\dotnet\System.ComponentModel.Annotations.dll">
+      <PackagePath>System.ComponentModel.Annotations.dll</PackagePath>
+      <Modified>2016-01-20T08:58:27.692</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.ComponentModel.EventBasedAsync\4.0.10\lib\dotnet\System.ComponentModel.EventBasedAsync.dll">
+      <PackagePath>System.ComponentModel.EventBasedAsync.dll</PackagePath>
+      <Modified>2016-01-20T08:58:09.826</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Data.Common\4.0.0\lib\dotnet\System.Data.Common.dll">
+      <PackagePath>System.Data.Common.dll</PackagePath>
+      <Modified>2016-01-20T08:58:10.570</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Diagnostics.Contracts\4.0.0\lib\netcore50\System.Diagnostics.Contracts.dll">
+      <PackagePath>System.Diagnostics.Contracts.dll</PackagePath>
+      <Modified>2016-01-20T08:58:10.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Diagnostics.Debug\4.0.10\lib\netcore50\System.Diagnostics.Debug.dll">
+      <PackagePath>System.Diagnostics.Debug.dll</PackagePath>
+      <Modified>2016-01-20T08:58:30.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Diagnostics.StackTrace\4.0.0\lib\netcore50\System.Diagnostics.StackTrace.dll">
+      <PackagePath>System.Diagnostics.StackTrace.dll</PackagePath>
+      <Modified>2016-01-20T08:58:10.669</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Diagnostics.Tools\4.0.0\lib\netcore50\System.Diagnostics.Tools.dll">
+      <PackagePath>System.Diagnostics.Tools.dll</PackagePath>
+      <Modified>2016-01-20T08:58:30.617</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Diagnostics.Tracing\4.0.20\lib\netcore50\System.Diagnostics.Tracing.dll">
+      <PackagePath>System.Diagnostics.Tracing.dll</PackagePath>
+      <Modified>2016-01-20T08:58:30.552</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Dynamic.Runtime\4.0.10\lib\netcore50\System.Dynamic.Runtime.dll">
+      <PackagePath>System.Dynamic.Runtime.dll</PackagePath>
+      <Modified>2016-01-20T08:58:32.871</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Globalization\4.0.10\lib\netcore50\System.Globalization.dll">
+      <PackagePath>System.Globalization.dll</PackagePath>
+      <Modified>2016-01-20T08:58:31.934</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Globalization.Calendars\4.0.0\lib\netcore50\System.Globalization.Calendars.dll">
+      <PackagePath>System.Globalization.Calendars.dll</PackagePath>
+      <Modified>2016-01-20T08:58:32.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Globalization.Extensions\4.0.0\lib\dotnet\System.Globalization.Extensions.dll">
+      <PackagePath>System.Globalization.Extensions.dll</PackagePath>
+      <Modified>2016-01-20T08:58:33.384</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.IO\4.0.10\lib\netcore50\System.IO.dll">
+      <PackagePath>System.IO.dll</PackagePath>
+      <Modified>2016-01-20T08:58:33.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.IO.Compression\4.0.0\lib\netcore50\System.IO.Compression.dll">
+      <PackagePath>System.IO.Compression.dll</PackagePath>
+      <Modified>2016-01-20T08:58:34.881</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.IO.Compression.clrcompression-x64\4.0.0\runtimes\win10-x64\native\ClrCompression.dll">
+      <PackagePath>ClrCompression.dll</PackagePath>
+      <Modified>2016-01-20T08:59:31.819</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.IO.Compression.ZipFile\4.0.0\lib\dotnet\System.IO.Compression.ZipFile.dll">
+      <PackagePath>System.IO.Compression.ZipFile.dll</PackagePath>
+      <Modified>2016-01-20T08:58:35.236</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.IO.FileSystem\4.0.0\lib\netcore50\System.IO.FileSystem.dll">
+      <PackagePath>System.IO.FileSystem.dll</PackagePath>
+      <Modified>2016-01-20T08:58:38.165</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.IO.FileSystem.Primitives\4.0.0\lib\dotnet\System.IO.FileSystem.Primitives.dll">
+      <PackagePath>System.IO.FileSystem.Primitives.dll</PackagePath>
+      <Modified>2016-01-20T08:58:37.157</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.IO.IsolatedStorage\4.0.0\lib\netcore50\System.IO.IsolatedStorage.dll">
+      <PackagePath>System.IO.IsolatedStorage.dll</PackagePath>
+      <Modified>2016-01-20T08:58:10.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.IO.UnmanagedMemoryStream\4.0.0\lib\dotnet\System.IO.UnmanagedMemoryStream.dll">
+      <PackagePath>System.IO.UnmanagedMemoryStream.dll</PackagePath>
+      <Modified>2016-01-20T08:58:37.086</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Linq\4.0.0\lib\netcore50\System.Linq.dll">
+      <PackagePath>System.Linq.dll</PackagePath>
+      <Modified>2016-01-20T08:58:38.666</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Linq.Expressions\4.0.10\lib\netcore50\System.Linq.Expressions.dll">
+      <PackagePath>System.Linq.Expressions.dll</PackagePath>
+      <Modified>2016-01-20T08:58:38.740</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Linq.Parallel\4.0.0\lib\netcore50\System.Linq.Parallel.dll">
+      <PackagePath>System.Linq.Parallel.dll</PackagePath>
+      <Modified>2016-01-20T08:58:38.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Linq.Queryable\4.0.0\lib\netcore50\System.Linq.Queryable.dll">
+      <PackagePath>System.Linq.Queryable.dll</PackagePath>
+      <Modified>2016-01-20T08:59:01.644</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Net.Http\4.0.0\lib\netcore50\System.Net.Http.dll">
+      <PackagePath>System.Net.Http.dll</PackagePath>
+      <Modified>2016-01-20T08:59:01.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Net.Http.Rtc\4.0.0\lib\netcore50\System.Net.Http.Rtc.dll">
+      <PackagePath>System.Net.Http.Rtc.dll</PackagePath>
+      <Modified>2016-01-20T08:58:11.250</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Net.NetworkInformation\4.0.0\lib\netcore50\System.Net.NetworkInformation.dll">
+      <PackagePath>System.Net.NetworkInformation.dll</PackagePath>
+      <Modified>2016-01-20T08:59:01.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Net.Primitives\4.0.10\lib\netcore50\System.Net.Primitives.dll">
+      <PackagePath>System.Net.Primitives.dll</PackagePath>
+      <Modified>2016-01-20T08:59:02.417</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Net.Requests\4.0.10\lib\dotnet\System.Net.Requests.dll">
+      <PackagePath>System.Net.Requests.dll</PackagePath>
+      <Modified>2016-01-20T08:58:11.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Net.Sockets\4.0.0\lib\netcore50\System.Net.Sockets.dll">
+      <PackagePath>System.Net.Sockets.dll</PackagePath>
+      <Modified>2016-01-20T08:58:11.382</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Net.WebHeaderCollection\4.0.0\lib\dotnet\System.Net.WebHeaderCollection.dll">
+      <PackagePath>System.Net.WebHeaderCollection.dll</PackagePath>
+      <Modified>2016-01-20T08:58:16.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Numerics.Vectors\4.1.0\lib\dotnet\System.Numerics.Vectors.dll">
+      <PackagePath>System.Numerics.Vectors.dll</PackagePath>
+      <Modified>2016-01-20T08:59:02.869</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Numerics.Vectors.WindowsRuntime\4.0.0\lib\dotnet\System.Numerics.Vectors.WindowsRuntime.dll">
+      <PackagePath>System.Numerics.Vectors.WindowsRuntime.dll</PackagePath>
+      <Modified>2016-01-20T08:58:16.147</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.ObjectModel\4.0.10\lib\dotnet\System.ObjectModel.dll">
+      <PackagePath>System.ObjectModel.dll</PackagePath>
+      <Modified>2016-01-20T08:59:01.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Private.DataContractSerialization\4.0.0\lib\netcore50\System.Private.DataContractSerialization.dll">
+      <PackagePath>System.Private.DataContractSerialization.dll</PackagePath>
+      <Modified>2016-01-20T08:58:12.240</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Private.Networking\4.0.0\lib\netcore50\System.Private.Networking.dll">
+      <PackagePath>System.Private.Networking.dll</PackagePath>
+      <Modified>2016-01-20T08:58:21.394</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Private.ServiceModel\4.0.0\lib\netcore50\System.Private.ServiceModel.dll">
+      <PackagePath>System.Private.ServiceModel.dll</PackagePath>
+      <Modified>2016-01-20T08:58:19.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Private.Uri\4.0.0\lib\netcore50\System.Private.Uri.dll">
+      <PackagePath>System.Private.Uri.dll</PackagePath>
+      <Modified>2016-01-20T08:58:08.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Reflection\4.0.10\lib\netcore50\System.Reflection.dll">
+      <PackagePath>System.Reflection.dll</PackagePath>
+      <Modified>2016-01-20T08:59:02.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Reflection.Context\4.0.0\lib\netcore50\System.Reflection.Context.dll">
+      <PackagePath>System.Reflection.Context.dll</PackagePath>
+      <Modified>2016-01-20T08:58:16.552</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Reflection.DispatchProxy\4.0.0\lib\netcore50\System.Reflection.DispatchProxy.dll">
+      <PackagePath>System.Reflection.DispatchProxy.dll</PackagePath>
+      <Modified>2016-01-20T08:59:03.282</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Reflection.Emit\4.0.0\lib\netcore50\System.Reflection.Emit.dll">
+      <PackagePath>System.Reflection.Emit.dll</PackagePath>
+      <Modified>2016-01-20T08:59:32.094</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Reflection.Emit.ILGeneration\4.0.0\lib\netcore50\System.Reflection.Emit.ILGeneration.dll">
+      <PackagePath>System.Reflection.Emit.ILGeneration.dll</PackagePath>
+      <Modified>2016-01-20T08:59:31.254</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Reflection.Emit.Lightweight\4.0.0\lib\netcore50\System.Reflection.Emit.Lightweight.dll">
+      <PackagePath>System.Reflection.Emit.Lightweight.dll</PackagePath>
+      <Modified>2016-01-20T08:59:32.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Reflection.Extensions\4.0.0\lib\netcore50\System.Reflection.Extensions.dll">
+      <PackagePath>System.Reflection.Extensions.dll</PackagePath>
+      <Modified>2016-01-20T08:59:03.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Reflection.Metadata\1.0.22\lib\dotnet\System.Reflection.Metadata.dll">
+      <PackagePath>System.Reflection.Metadata.dll</PackagePath>
+      <Modified>2016-01-20T08:59:03.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Reflection.Primitives\4.0.0\lib\netcore50\System.Reflection.Primitives.dll">
+      <PackagePath>System.Reflection.Primitives.dll</PackagePath>
+      <Modified>2016-01-20T08:59:04.003</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Reflection.TypeExtensions\4.0.0\lib\netcore50\System.Reflection.TypeExtensions.dll">
+      <PackagePath>System.Reflection.TypeExtensions.dll</PackagePath>
+      <Modified>2016-01-20T08:59:04.245</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Resources.ResourceManager\4.0.0\lib\netcore50\System.Resources.ResourceManager.dll">
+      <PackagePath>System.Resources.ResourceManager.dll</PackagePath>
+      <Modified>2016-01-20T08:59:07.260</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Runtime\4.0.20\lib\netcore50\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2016-01-20T08:59:09.061</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Runtime.Extensions\4.0.10\lib\netcore50\System.Runtime.Extensions.dll">
+      <PackagePath>System.Runtime.Extensions.dll</PackagePath>
+      <Modified>2016-01-20T08:59:07.523</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Runtime.Handles\4.0.0\lib\netcore50\System.Runtime.Handles.dll">
+      <PackagePath>System.Runtime.Handles.dll</PackagePath>
+      <Modified>2016-01-20T08:59:07.357</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Runtime.InteropServices\4.0.20\lib\netcore50\System.Runtime.InteropServices.dll">
+      <PackagePath>System.Runtime.InteropServices.dll</PackagePath>
+      <Modified>2016-01-20T08:59:08.301</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Runtime.InteropServices.WindowsRuntime\4.0.0\lib\netcore50\System.Runtime.InteropServices.WindowsRuntime.dll">
+      <PackagePath>System.Runtime.InteropServices.WindowsRuntime.dll</PackagePath>
+      <Modified>2016-01-20T08:58:16.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Runtime.Numerics\4.0.0\lib\netcore50\System.Runtime.Numerics.dll">
+      <PackagePath>System.Runtime.Numerics.dll</PackagePath>
+      <Modified>2016-01-20T08:59:08.651</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Runtime.Serialization.Json\4.0.0\lib\netcore50\System.Runtime.Serialization.Json.dll">
+      <PackagePath>System.Runtime.Serialization.Json.dll</PackagePath>
+      <Modified>2016-01-20T08:58:16.098</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Runtime.Serialization.Primitives\4.0.10\lib\dotnet\System.Runtime.Serialization.Primitives.dll">
+      <PackagePath>System.Runtime.Serialization.Primitives.dll</PackagePath>
+      <Modified>2016-01-20T08:58:16.127</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Runtime.Serialization.Xml\4.0.10\lib\netcore50\System.Runtime.Serialization.Xml.dll">
+      <PackagePath>System.Runtime.Serialization.Xml.dll</PackagePath>
+      <Modified>2016-01-20T08:58:16.115</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Runtime.WindowsRuntime\4.0.10\lib\netcore50\System.Runtime.WindowsRuntime.dll">
+      <PackagePath>System.Runtime.WindowsRuntime.dll</PackagePath>
+      <Modified>2016-01-20T08:58:16.926</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Runtime.WindowsRuntime.UI.Xaml\4.0.0\lib\netcore50\System.Runtime.WindowsRuntime.UI.Xaml.dll">
+      <PackagePath>System.Runtime.WindowsRuntime.UI.Xaml.dll</PackagePath>
+      <Modified>2016-01-20T08:58:17.229</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Security.Claims\4.0.0\lib\dotnet\System.Security.Claims.dll">
+      <PackagePath>System.Security.Claims.dll</PackagePath>
+      <Modified>2016-01-20T08:59:07.296</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Security.Principal\4.0.0\lib\netcore50\System.Security.Principal.dll">
+      <PackagePath>System.Security.Principal.dll</PackagePath>
+      <Modified>2016-01-20T08:59:07.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.ServiceModel.Duplex\4.0.0\lib\netcore50\System.ServiceModel.Duplex.dll">
+      <PackagePath>System.ServiceModel.Duplex.dll</PackagePath>
+      <Modified>2016-01-20T08:58:16.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.ServiceModel.Http\4.0.10\lib\netcore50\System.ServiceModel.Http.dll">
+      <PackagePath>System.ServiceModel.Http.dll</PackagePath>
+      <Modified>2016-01-20T08:58:16.601</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.ServiceModel.NetTcp\4.0.0\lib\netcore50\System.ServiceModel.NetTcp.dll">
+      <PackagePath>System.ServiceModel.NetTcp.dll</PackagePath>
+      <Modified>2016-01-20T08:58:16.627</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.ServiceModel.Primitives\4.0.0\lib\netcore50\System.ServiceModel.Primitives.dll">
+      <PackagePath>System.ServiceModel.Primitives.dll</PackagePath>
+      <Modified>2016-01-20T08:58:25.175</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.ServiceModel.Security\4.0.0\lib\netcore50\System.ServiceModel.Security.dll">
+      <PackagePath>System.ServiceModel.Security.dll</PackagePath>
+      <Modified>2016-01-20T08:58:22.034</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Text.Encoding\4.0.10\lib\netcore50\System.Text.Encoding.dll">
+      <PackagePath>System.Text.Encoding.dll</PackagePath>
+      <Modified>2016-01-20T08:59:07.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Text.Encoding.CodePages\4.0.0\lib\dotnet\System.Text.Encoding.CodePages.dll">
+      <PackagePath>System.Text.Encoding.CodePages.dll</PackagePath>
+      <Modified>2016-01-20T08:58:22.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Text.Encoding.Extensions\4.0.10\lib\netcore50\System.Text.Encoding.Extensions.dll">
+      <PackagePath>System.Text.Encoding.Extensions.dll</PackagePath>
+      <Modified>2016-01-20T08:59:08.315</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Text.RegularExpressions\4.0.10\lib\dotnet\System.Text.RegularExpressions.dll">
+      <PackagePath>System.Text.RegularExpressions.dll</PackagePath>
+      <Modified>2016-01-20T08:59:08.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Threading\4.0.10\lib\netcore50\System.Threading.dll">
+      <PackagePath>System.Threading.dll</PackagePath>
+      <Modified>2016-01-20T08:59:10.332</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Threading.Overlapped\4.0.0\lib\netcore50\System.Threading.Overlapped.dll">
+      <PackagePath>System.Threading.Overlapped.dll</PackagePath>
+      <Modified>2016-01-20T08:58:11.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Threading.Tasks\4.0.10\lib\netcore50\System.Threading.Tasks.dll">
+      <PackagePath>System.Threading.Tasks.dll</PackagePath>
+      <Modified>2016-01-20T08:59:09.490</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Threading.Tasks.Dataflow\4.5.25\lib\dotnet\System.Threading.Tasks.Dataflow.dll">
+      <PackagePath>System.Threading.Tasks.Dataflow.dll</PackagePath>
+      <Modified>2016-01-20T08:59:09.970</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Threading.Tasks.Parallel\4.0.0\lib\netcore50\System.Threading.Tasks.Parallel.dll">
+      <PackagePath>System.Threading.Tasks.Parallel.dll</PackagePath>
+      <Modified>2016-01-20T08:59:11.081</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Threading.Timer\4.0.0\lib\netcore50\System.Threading.Timer.dll">
+      <PackagePath>System.Threading.Timer.dll</PackagePath>
+      <Modified>2016-01-20T08:58:24.938</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Xml.ReaderWriter\4.0.10\lib\dotnet\System.Xml.ReaderWriter.dll">
+      <PackagePath>System.Xml.ReaderWriter.dll</PackagePath>
+      <Modified>2016-01-20T08:58:22.298</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Xml.XDocument\4.0.10\lib\dotnet\System.Xml.XDocument.dll">
+      <PackagePath>System.Xml.XDocument.dll</PackagePath>
+      <Modified>2016-01-20T08:58:22.141</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Xml.XmlDocument\4.0.0\lib\dotnet\System.Xml.XmlDocument.dll">
+      <PackagePath>System.Xml.XmlDocument.dll</PackagePath>
+      <Modified>2016-01-20T08:58:11.612</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\.nuget\packages\System.Xml.XmlSerializer\4.0.10\lib\netcore50\System.Xml.XmlSerializer.dll">
+      <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
+      <Modified>2016-01-20T08:58:22.668</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\ApplicationInsights.config">
+      <PackagePath>ApplicationInsights.config</PackagePath>
+      <Modified>2016-01-22T22:03:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\AllTunisia.png">
+      <PackagePath>Assets\AllTunisia.png</PackagePath>
+      <Modified>2016-01-31T03:20:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Amar.png">
+      <PackagePath>Assets\Amar.png</PackagePath>
+      <Modified>2016-01-24T18:49:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Anas.png">
+      <PackagePath>Assets\Anas.png</PackagePath>
+      <Modified>2016-01-24T18:49:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Ariana.png">
+      <PackagePath>Assets\Ariana.png</PackagePath>
+      <Modified>2016-01-31T02:59:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\ArianaCouleur.png">
+      <PackagePath>Assets\ArianaCouleur.png</PackagePath>
+      <Modified>2016-01-30T23:35:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\ArianaFinal.png">
+      <PackagePath>Assets\ArianaFinal.png</PackagePath>
+      <Modified>2016-01-31T19:11:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Artisanat.png">
+      <PackagePath>Assets\Artisanat.png</PackagePath>
+      <Modified>2016-01-23T23:04:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\ArtisanatS.png">
+      <PackagePath>Assets\ArtisanatS.png</PackagePath>
+      <Modified>2016-01-23T23:51:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\back1.png">
+      <PackagePath>Assets\back1.png</PackagePath>
+      <Modified>2016-01-23T02:25:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Beja.png">
+      <PackagePath>Assets\Beja.png</PackagePath>
+      <Modified>2016-01-31T02:59:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\BejaCouleur.png">
+      <PackagePath>Assets\BejaCouleur.png</PackagePath>
+      <Modified>2016-01-30T23:35:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\BenArous.png">
+      <PackagePath>Assets\BenArous.png</PackagePath>
+      <Modified>2016-01-30T21:42:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\BenArousCouleur.png">
+      <PackagePath>Assets\BenArousCouleur.png</PackagePath>
+      <Modified>2016-01-30T23:35:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Bizert.png">
+      <PackagePath>Assets\Bizert.png</PackagePath>
+      <Modified>2016-01-30T21:34:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\BizertCouleur.png">
+      <PackagePath>Assets\BizertCouleur.png</PackagePath>
+      <Modified>2016-01-30T23:35:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Bizerte.png">
+      <PackagePath>Assets\Bizerte.png</PackagePath>
+      <Modified>2016-01-31T02:59:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\ble.png">
+      <PackagePath>Assets\ble.png</PackagePath>
+      <Modified>2016-01-27T02:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\bleCouleur.png">
+      <PackagePath>Assets\bleCouleur.png</PackagePath>
+      <Modified>2016-01-27T03:17:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\CategorieBle.png">
+      <PackagePath>Assets\CategorieBle.png</PackagePath>
+      <Modified>2016-01-25T00:22:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\CategorieBroderie.png">
+      <PackagePath>Assets\CategorieBroderie.png</PackagePath>
+      <Modified>2016-01-25T00:22:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\CategorieEducation.png">
+      <PackagePath>Assets\CategorieEducation.png</PackagePath>
+      <Modified>2016-01-25T00:22:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\CategorieFruit.png">
+      <PackagePath>Assets\CategorieFruit.png</PackagePath>
+      <Modified>2016-01-25T00:22:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\CategorieInformatique.png">
+      <PackagePath>Assets\CategorieInformatique.png</PackagePath>
+      <Modified>2016-01-25T00:22:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\CategorieLegumes.png">
+      <PackagePath>Assets\CategorieLegumes.png</PackagePath>
+      <Modified>2016-01-25T00:22:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\CategorieMenage.png">
+      <PackagePath>Assets\CategorieMenage.png</PackagePath>
+      <Modified>2016-01-25T00:22:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\CategorieOeuf.png">
+      <PackagePath>Assets\CategorieOeuf.png</PackagePath>
+      <Modified>2016-01-25T00:22:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\CategoriePeinture.png">
+      <PackagePath>Assets\CategoriePeinture.png</PackagePath>
+      <Modified>2016-01-25T00:22:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\CategoriePoterie.png">
+      <PackagePath>Assets\CategoriePoterie.png</PackagePath>
+      <Modified>2016-01-25T00:22:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\CategorieReparation.png">
+      <PackagePath>Assets\CategorieReparation.png</PackagePath>
+      <Modified>2016-01-25T00:22:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\CategorieSon.png">
+      <PackagePath>Assets\CategorieSon.png</PackagePath>
+      <Modified>2016-01-25T00:22:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\CategorieTappisserie.png">
+      <PackagePath>Assets\CategorieTappisserie.png</PackagePath>
+      <Modified>2016-01-25T00:22:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\CategorieTelephone.png">
+      <PackagePath>Assets\CategorieTelephone.png</PackagePath>
+      <Modified>2016-01-25T00:22:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Categorietv.png">
+      <PackagePath>Assets\Categorietv.png</PackagePath>
+      <Modified>2016-01-25T00:22:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\CategorieViande.png">
+      <PackagePath>Assets\CategorieViande.png</PackagePath>
+      <Modified>2016-01-25T00:22:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Categorie_Header.png">
+      <PackagePath>Assets\Categorie_Header.png</PackagePath>
+      <Modified>2016-01-22T22:13:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\CercleFull.png">
+      <PackagePath>Assets\CercleFull.png</PackagePath>
+      <Modified>2016-01-29T21:23:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\CercleRougeFull.png">
+      <PackagePath>Assets\CercleRougeFull.png</PackagePath>
+      <Modified>2016-01-30T01:18:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\CercleRougeVide.png">
+      <PackagePath>Assets\CercleRougeVide.png</PackagePath>
+      <Modified>2016-01-30T01:18:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\CercleVertFull.png">
+      <PackagePath>Assets\CercleVertFull.png</PackagePath>
+      <Modified>2016-01-30T01:18:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\CercleVertVide.png">
+      <PackagePath>Assets\CercleVertVide.png</PackagePath>
+      <Modified>2016-01-30T01:18:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\CercleVide.png">
+      <PackagePath>Assets\CercleVide.png</PackagePath>
+      <Modified>2016-01-29T21:23:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Dattes.png">
+      <PackagePath>Assets\Dattes.png</PackagePath>
+      <Modified>2016-01-26T22:59:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Eggs.png">
+      <PackagePath>Assets\Eggs.png</PackagePath>
+      <Modified>2016-01-27T15:48:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\EggsCouleur.png">
+      <PackagePath>Assets\EggsCouleur.png</PackagePath>
+      <Modified>2016-01-27T15:48:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Epice.png">
+      <PackagePath>Assets\Epice.png</PackagePath>
+      <Modified>2016-01-27T15:01:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\EpiceCouleur.png">
+      <PackagePath>Assets\EpiceCouleur.png</PackagePath>
+      <Modified>2016-01-27T15:11:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Epine.png">
+      <PackagePath>Assets\Epine.png</PackagePath>
+      <Modified>2016-01-31T00:34:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\FB.png">
+      <PackagePath>Assets\FB.png</PackagePath>
+      <Modified>2016-01-22T23:29:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Fish.png">
+      <PackagePath>Assets\Fish.png</PackagePath>
+      <Modified>2016-01-28T01:25:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\FishCouleur.png">
+      <PackagePath>Assets\FishCouleur.png</PackagePath>
+      <Modified>2016-01-28T01:25:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\fruit.png">
+      <PackagePath>Assets\fruit.png</PackagePath>
+      <Modified>2016-01-27T02:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\fruitCouleur.png">
+      <PackagePath>Assets\fruitCouleur.png</PackagePath>
+      <Modified>2016-01-27T03:17:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Gabes.png">
+      <PackagePath>Assets\Gabes.png</PackagePath>
+      <Modified>2016-01-31T02:59:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\GabesCouleur.png">
+      <PackagePath>Assets\GabesCouleur.png</PackagePath>
+      <Modified>2016-01-30T23:35:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Gafsa.png">
+      <PackagePath>Assets\Gafsa.png</PackagePath>
+      <Modified>2016-01-31T02:59:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Gasfa.png">
+      <PackagePath>Assets\Gasfa.png</PackagePath>
+      <Modified>2016-01-30T22:21:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Gasserine.png">
+      <PackagePath>Assets\Gasserine.png</PackagePath>
+      <Modified>2016-01-31T02:59:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\GasserineCouleur.png">
+      <PackagePath>Assets\GasserineCouleur.png</PackagePath>
+      <Modified>2016-01-30T23:35:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Gbeli.png">
+      <PackagePath>Assets\Gbeli.png</PackagePath>
+      <Modified>2016-01-31T02:59:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\GbeliCouleur.png">
+      <PackagePath>Assets\GbeliCouleur.png</PackagePath>
+      <Modified>2016-01-30T23:35:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\googleplus.png">
+      <PackagePath>Assets\googleplus.png</PackagePath>
+      <Modified>2016-01-23T00:03:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\HeaderArtisanat.png">
+      <PackagePath>Assets\HeaderArtisanat.png</PackagePath>
+      <Modified>2016-01-25T00:22:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\HeaderMultimedia.png">
+      <PackagePath>Assets\HeaderMultimedia.png</PackagePath>
+      <Modified>2016-01-25T00:22:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\HeaderNourriture.png">
+      <PackagePath>Assets\HeaderNourriture.png</PackagePath>
+      <Modified>2016-01-25T00:22:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Headerservice.png">
+      <PackagePath>Assets\Headerservice.png</PackagePath>
+      <Modified>2016-01-25T00:22:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Here.png">
+      <PackagePath>Assets\Here.png</PackagePath>
+      <Modified>2016-01-24T13:14:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Homebtn.png">
+      <PackagePath>Assets\Homebtn.png</PackagePath>
+      <Modified>2016-01-23T22:09:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\home_256.png">
+      <PackagePath>Assets\home_256.png</PackagePath>
+      <Modified>2016-01-23T22:04:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Honey.png">
+      <PackagePath>Assets\Honey.png</PackagePath>
+      <Modified>2016-01-27T15:31:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\HoneyCouleur.png">
+      <PackagePath>Assets\HoneyCouleur.png</PackagePath>
+      <Modified>2016-01-27T15:31:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Icon.png">
+      <PackagePath>Assets\Icon.png</PackagePath>
+      <Modified>2016-01-25T00:22:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Immobilier.png">
+      <PackagePath>Assets\Immobilier.png</PackagePath>
+      <Modified>2016-01-24T00:00:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Jendouba.png">
+      <PackagePath>Assets\Jendouba.png</PackagePath>
+      <Modified>2016-01-31T02:59:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\JendoubaCouleur.png">
+      <PackagePath>Assets\JendoubaCouleur.png</PackagePath>
+      <Modified>2016-01-30T23:35:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Karwen.png">
+      <PackagePath>Assets\Karwen.png</PackagePath>
+      <Modified>2016-01-31T02:59:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\KarwenCouleur.png">
+      <PackagePath>Assets\KarwenCouleur.png</PackagePath>
+      <Modified>2016-01-30T23:35:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Kef.png">
+      <PackagePath>Assets\Kef.png</PackagePath>
+      <Modified>2016-01-31T02:59:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\KefCouleur.png">
+      <PackagePath>Assets\KefCouleur.png</PackagePath>
+      <Modified>2016-01-30T23:35:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\KefFinal.png">
+      <PackagePath>Assets\KefFinal.png</PackagePath>
+      <Modified>2016-01-31T19:11:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Laitue.png">
+      <PackagePath>Assets\Laitue.png</PackagePath>
+      <Modified>2016-01-26T22:59:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\LoginLock.png">
+      <PackagePath>Assets\LoginLock.png</PackagePath>
+      <Modified>2016-01-23T00:57:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\LogoutBtn.png">
+      <PackagePath>Assets\LogoutBtn.png</PackagePath>
+      <Modified>2016-01-23T22:20:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\LogoutBtn2.png">
+      <PackagePath>Assets\LogoutBtn2.png</PackagePath>
+      <Modified>2016-01-24T01:08:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\loop.png">
+      <PackagePath>Assets\loop.png</PackagePath>
+      <Modified>2016-01-24T00:28:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Mahdia.png">
+      <PackagePath>Assets\Mahdia.png</PackagePath>
+      <Modified>2016-01-31T02:59:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\MahdiaCouleur.png">
+      <PackagePath>Assets\MahdiaCouleur.png</PackagePath>
+      <Modified>2016-01-30T23:35:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\MahdiaFinal.png">
+      <PackagePath>Assets\MahdiaFinal.png</PackagePath>
+      <Modified>2016-01-31T19:11:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Mail.png">
+      <PackagePath>Assets\Mail.png</PackagePath>
+      <Modified>2016-01-24T15:18:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Manouba.png">
+      <PackagePath>Assets\Manouba.png</PackagePath>
+      <Modified>2016-01-31T02:59:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Mednine.png">
+      <PackagePath>Assets\Mednine.png</PackagePath>
+      <Modified>2016-01-31T02:59:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\MednineCouleur.png">
+      <PackagePath>Assets\MednineCouleur.png</PackagePath>
+      <Modified>2016-01-30T23:35:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Mestir.png">
+      <PackagePath>Assets\Mestir.png</PackagePath>
+      <Modified>2016-01-31T02:59:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\MestirCouleur.png">
+      <PackagePath>Assets\MestirCouleur.png</PackagePath>
+      <Modified>2016-01-30T23:35:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\MestirFInal.png">
+      <PackagePath>Assets\MestirFInal.png</PackagePath>
+      <Modified>2016-01-31T19:11:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Multimedia.png">
+      <PackagePath>Assets\Multimedia.png</PackagePath>
+      <Modified>2016-01-23T23:57:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Nabeul.png">
+      <PackagePath>Assets\Nabeul.png</PackagePath>
+      <Modified>2016-01-31T02:59:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\NabeulCouleur.png">
+      <PackagePath>Assets\NabeulCouleur.png</PackagePath>
+      <Modified>2016-01-30T23:35:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\NabeulFinal.png">
+      <PackagePath>Assets\NabeulFinal.png</PackagePath>
+      <Modified>2016-01-31T19:11:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Notif.png">
+      <PackagePath>Assets\Notif.png</PackagePath>
+      <Modified>2016-01-31T22:23:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Nouri.png">
+      <PackagePath>Assets\Nouri.png</PackagePath>
+      <Modified>2016-01-27T13:44:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Nourriture.png">
+      <PackagePath>Assets\Nourriture.png</PackagePath>
+      <Modified>2016-01-23T23:04:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\NourritureS.png">
+      <PackagePath>Assets\NourritureS.png</PackagePath>
+      <Modified>2016-01-23T23:40:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\OpacityRect.png">
+      <PackagePath>Assets\OpacityRect.png</PackagePath>
+      <Modified>2016-01-29T20:29:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\OpacityRectDark.png">
+      <PackagePath>Assets\OpacityRectDark.png</PackagePath>
+      <Modified>2016-01-30T01:06:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\OpacityRectFlou.png">
+      <PackagePath>Assets\OpacityRectFlou.png</PackagePath>
+      <Modified>2016-01-30T01:03:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Pain.png">
+      <PackagePath>Assets\Pain.png</PackagePath>
+      <Modified>2016-01-28T01:25:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\PainCouleur.png">
+      <PackagePath>Assets\PainCouleur.png</PackagePath>
+      <Modified>2016-01-28T01:25:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Password.png">
+      <PackagePath>Assets\Password.png</PackagePath>
+      <Modified>2016-01-23T00:50:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Pen.png">
+      <PackagePath>Assets\Pen.png</PackagePath>
+      <Modified>2016-01-24T15:34:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Poivrons.png">
+      <PackagePath>Assets\Poivrons.png</PackagePath>
+      <Modified>2016-01-26T22:59:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Rating.png">
+      <PackagePath>Assets\Rating.png</PackagePath>
+      <Modified>2016-01-24T13:24:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Services.png">
+      <PackagePath>Assets\Services.png</PackagePath>
+      <Modified>2016-01-23T23:55:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\SettingBtn.png">
+      <PackagePath>Assets\SettingBtn.png</PackagePath>
+      <Modified>2016-01-23T22:17:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\SettingBtn2.png">
+      <PackagePath>Assets\SettingBtn2.png</PackagePath>
+      <Modified>2016-01-24T01:05:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Sfax.png">
+      <PackagePath>Assets\Sfax.png</PackagePath>
+      <Modified>2016-01-31T02:59:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\SfaxCouleur.png">
+      <PackagePath>Assets\SfaxCouleur.png</PackagePath>
+      <Modified>2016-01-30T23:35:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Sidibouzid.png">
+      <PackagePath>Assets\Sidibouzid.png</PackagePath>
+      <Modified>2016-01-31T02:59:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\SidibouzidCouleur.png">
+      <PackagePath>Assets\SidibouzidCouleur.png</PackagePath>
+      <Modified>2016-01-30T23:35:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\SignInWith.png">
+      <PackagePath>Assets\SignInWith.png</PackagePath>
+      <Modified>2016-01-23T02:10:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Siliana.png">
+      <PackagePath>Assets\Siliana.png</PackagePath>
+      <Modified>2016-01-31T02:59:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\SilianaCouleur.png">
+      <PackagePath>Assets\SilianaCouleur.png</PackagePath>
+      <Modified>2016-01-30T23:35:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Sousse.png">
+      <PackagePath>Assets\Sousse.png</PackagePath>
+      <Modified>2016-01-31T02:59:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\SousseCouleur.png">
+      <PackagePath>Assets\SousseCouleur.png</PackagePath>
+      <Modified>2016-01-31T17:23:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\SousseFinal.png">
+      <PackagePath>Assets\SousseFinal.png</PackagePath>
+      <Modified>2016-01-31T19:11:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Sta.png">
+      <PackagePath>Assets\Sta.png</PackagePath>
+      <Modified>2016-01-24T18:49:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\TapisTradi.png">
+      <PackagePath>Assets\TapisTradi.png</PackagePath>
+      <Modified>2016-01-29T19:57:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Tatawin.png">
+      <PackagePath>Assets\Tatawin.png</PackagePath>
+      <Modified>2016-01-31T02:59:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\TatawinCouleur.png">
+      <PackagePath>Assets\TatawinCouleur.png</PackagePath>
+      <Modified>2016-01-30T23:35:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Telephone.png">
+      <PackagePath>Assets\Telephone.png</PackagePath>
+      <Modified>2016-01-24T13:37:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\ThumbDown.png">
+      <PackagePath>Assets\ThumbDown.png</PackagePath>
+      <Modified>2016-01-24T20:58:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\ThumbUp.png">
+      <PackagePath>Assets\ThumbUp.png</PackagePath>
+      <Modified>2016-01-24T20:58:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\TLSLogo_redShadow.png">
+      <PackagePath>Assets\TLSLogo_redShadow.png</PackagePath>
+      <Modified>2016-01-22T22:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Tomates.png">
+      <PackagePath>Assets\Tomates.png</PackagePath>
+      <Modified>2016-01-26T22:59:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Tozeur.png">
+      <PackagePath>Assets\Tozeur.png</PackagePath>
+      <Modified>2016-01-31T02:59:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\TozeurCouleur.png">
+      <PackagePath>Assets\TozeurCouleur.png</PackagePath>
+      <Modified>2016-01-30T23:35:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Tunis.png">
+      <PackagePath>Assets\Tunis.png</PackagePath>
+      <Modified>2016-01-31T02:59:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\TunisCouleur.png">
+      <PackagePath>Assets\TunisCouleur.png</PackagePath>
+      <Modified>2016-01-30T23:35:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\TunisFinal.png">
+      <PackagePath>Assets\TunisFinal.png</PackagePath>
+      <Modified>2016-01-31T17:49:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Tunisia.png">
+      <PackagePath>Assets\Tunisia.png</PackagePath>
+      <Modified>2016-01-30T22:05:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Tunisia2.png">
+      <PackagePath>Assets\Tunisia2.png</PackagePath>
+      <Modified>2016-01-30T22:09:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\TunisiaVide.png">
+      <PackagePath>Assets\TunisiaVide.png</PackagePath>
+      <Modified>2016-01-31T03:00:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\twitter.png">
+      <PackagePath>Assets\twitter.png</PackagePath>
+      <Modified>2016-01-23T00:05:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\UserHraderImg.png">
+      <PackagePath>Assets\UserHraderImg.png</PackagePath>
+      <Modified>2016-01-23T22:23:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Veget.png">
+      <PackagePath>Assets\Veget.png</PackagePath>
+      <Modified>2016-01-27T02:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\VegetCouleur.png">
+      <PackagePath>Assets\VegetCouleur.png</PackagePath>
+      <Modified>2016-01-27T02:54:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Vehicule.png">
+      <PackagePath>Assets\Vehicule.png</PackagePath>
+      <Modified>2016-01-24T00:07:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Vetement.png">
+      <PackagePath>Assets\Vetement.png</PackagePath>
+      <Modified>2016-01-24T00:02:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Wheel.png">
+      <PackagePath>Assets\Wheel.png</PackagePath>
+      <Modified>2016-01-24T00:15:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Zaghwen.png">
+      <PackagePath>Assets\Zaghwen.png</PackagePath>
+      <Modified>2016-01-31T02:59:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\ZaghwenCouleur.png">
+      <PackagePath>Assets\ZaghwenCouleur.png</PackagePath>
+      <Modified>2016-01-30T23:35:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\ListItemBack.png">
+      <PackagePath>ListItemBack.png</PackagePath>
+      <Modified>2016-01-26T23:11:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-10-10T20:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T20:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T20:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T20:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T20:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T20:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T20:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\BackAll.jpg">
+      <PackagePath>Assets\BackAll.jpg</PackagePath>
+      <Modified>2016-01-31T03:28:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\CategorieBabySitting.jpg">
+      <PackagePath>Assets\CategorieBabySitting.jpg</PackagePath>
+      <Modified>2016-01-25T00:22:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Cerise.jpg">
+      <PackagePath>Assets\Cerise.jpg</PackagePath>
+      <Modified>2016-01-28T03:19:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Epice1.jpg">
+      <PackagePath>Assets\Epice1.jpg</PackagePath>
+      <Modified>2016-01-28T03:29:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Epice2.jpg">
+      <PackagePath>Assets\Epice2.jpg</PackagePath>
+      <Modified>2016-01-28T03:29:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Epice3.jpg">
+      <PackagePath>Assets\Epice3.jpg</PackagePath>
+      <Modified>2016-01-28T03:29:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Epice4.jpg">
+      <PackagePath>Assets\Epice4.jpg</PackagePath>
+      <Modified>2016-01-28T03:29:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Epices.jpg">
+      <PackagePath>Assets\Epices.jpg</PackagePath>
+      <Modified>2016-01-27T00:51:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Grenade.jpg">
+      <PackagePath>Assets\Grenade.jpg</PackagePath>
+      <Modified>2016-01-27T13:18:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\HeaderN.jpg">
+      <PackagePath>Assets\HeaderN.jpg</PackagePath>
+      <Modified>2016-01-25T02:21:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Hub1.jpg">
+      <PackagePath>Assets\Hub1.jpg</PackagePath>
+      <Modified>2016-02-01T03:18:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Hub2.jpg">
+      <PackagePath>Assets\Hub2.jpg</PackagePath>
+      <Modified>2016-02-01T03:30:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Hub3.jpg">
+      <PackagePath>Assets\Hub3.jpg</PackagePath>
+      <Modified>2016-02-01T03:37:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Hubs2.jpg">
+      <PackagePath>Assets\Hubs2.jpg</PackagePath>
+      <Modified>2016-02-01T03:31:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\LoginBackground.jpg">
+      <PackagePath>Assets\LoginBackground.jpg</PackagePath>
+      <Modified>2016-01-22T22:04:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Logobick.jpg">
+      <PackagePath>Assets\Logobick.jpg</PackagePath>
+      <Modified>2016-01-23T02:21:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Mariem.jpg">
+      <PackagePath>Assets\Mariem.jpg</PackagePath>
+      <Modified>2016-01-24T00:21:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Mhamsa.JPG">
+      <PackagePath>Assets\Mhamsa.JPG</PackagePath>
+      <Modified>2016-01-27T00:51:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Miel.jpg">
+      <PackagePath>Assets\Miel.jpg</PackagePath>
+      <Modified>2016-01-27T00:24:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Mlawi.jpg">
+      <PackagePath>Assets\Mlawi.jpg</PackagePath>
+      <Modified>2016-01-27T00:51:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\oeufss.JPG">
+      <PackagePath>Assets\oeufss.JPG</PackagePath>
+      <Modified>2016-01-27T00:51:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Pasteque.jpg">
+      <PackagePath>Assets\Pasteque.jpg</PackagePath>
+      <Modified>2016-01-28T03:19:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Peche.jpg">
+      <PackagePath>Assets\Peche.jpg</PackagePath>
+      <Modified>2016-01-28T03:19:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Pomme.jpg">
+      <PackagePath>Assets\Pomme.jpg</PackagePath>
+      <Modified>2016-01-28T03:19:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Pommes.jpg">
+      <PackagePath>Assets\Pommes.jpg</PackagePath>
+      <Modified>2016-02-01T03:05:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\ProducerIMG.jpg">
+      <PackagePath>Assets\ProducerIMG.jpg</PackagePath>
+      <Modified>2016-01-24T12:36:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Roma.jpg">
+      <PackagePath>Assets\Roma.jpg</PackagePath>
+      <Modified>2016-01-27T00:30:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Tapis1.jpg">
+      <PackagePath>Assets\Tapis1.jpg</PackagePath>
+      <Modified>2016-01-29T20:15:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Tapis2.jpg">
+      <PackagePath>Assets\Tapis2.jpg</PackagePath>
+      <Modified>2016-01-29T20:15:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Tapis3.jpg">
+      <PackagePath>Assets\Tapis3.jpg</PackagePath>
+      <Modified>2016-01-29T20:15:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Tomate2.jpg">
+      <PackagePath>Assets\Tomate2.jpg</PackagePath>
+      <Modified>2016-01-29T23:41:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Tomate3.jpg">
+      <PackagePath>Assets\Tomate3.jpg</PackagePath>
+      <Modified>2016-01-29T23:41:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\Tunisia3.jpg">
+      <PackagePath>Assets\Tunisia3.jpg</PackagePath>
+      <Modified>2016-01-30T22:34:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\ViewPager1.jpg">
+      <PackagePath>Assets\ViewPager1.jpg</PackagePath>
+      <Modified>2016-01-25T00:22:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\ViewPager2.jpg">
+      <PackagePath>Assets\ViewPager2.jpg</PackagePath>
+      <Modified>2016-01-25T00:22:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\ViewPager3.jpg">
+      <PackagePath>Assets\ViewPager3.jpg</PackagePath>
+      <Modified>2016-01-25T00:22:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Assets\ViewPager4.jpg">
+      <PackagePath>Assets\ViewPager4.jpg</PackagePath>
+      <Modified>2016-01-25T00:22:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2016-01-22T22:03:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x64\Debug\App4.xr.xml">
+      <PackagePath>App4.xr.xml</PackagePath>
+      <Modified>2016-02-16T18:54:06.744</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2016-01-21T01:31:22.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-02-16T18:54:12.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x64\Debug\Core\App4.exe">
+      <PackagePath>App4.exe</PackagePath>
+      <Modified>2016-02-16T18:54:14.524</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23430.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23430.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\ARM\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23430.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23430.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\x64\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23430.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23430.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\x86\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

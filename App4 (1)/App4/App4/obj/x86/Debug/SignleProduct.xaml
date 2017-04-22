@@ -1,0 +1,294 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="App4.SignleProduct"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App4"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:data="using:App4.Models"
+    mc:Ignorable="d">
+
+    <Grid >
+
+        <Grid.Background>
+
+            <ImageBrush Stretch="Fill" ImageSource="Assets/Logobick.jpg"/>
+        </Grid.Background>
+        <RelativePanel  >
+            <Rectangle Margin="0,0,-564,-160" Fill="Black"></Rectangle>
+            <Button x:ConnectionId='2' Height="64" Margin="0,0,-28,-52" Width="48" Name="DrawerOpner" FontFamily="Segoe MDL2 Assets" Content="&#xE700;" RequestedTheme="Dark" Background="#33000000" FontSize="26.667"                              />
+            <Button x:ConnectionId='3' x:Name="Homebtn" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="45" Margin="78,4,224,12" Width="52"                      >
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="Assets/Homebtn.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:ConnectionId='4' x:Name="UserHeaderImg" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" RenderTransformOrigin="0.484,0.486" Margin="308,10,-350,-53"                            >
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="Assets/UserHraderImg.png"/>
+                </Button.Background>
+            </Button>
+            <Image Source="Assets/CercleRougeFull.png" Margin="300,34,40,310"  RenderTransformOrigin="0.5,0.5" Opacity="0.5">
+                <Image.RenderTransform>
+                    <CompositeTransform ScaleY="-1"/>
+                </Image.RenderTransform>
+            </Image>
+            <TextBlock x:ConnectionId='5' Name="NbrNotif" Text="16" RequestedTheme="Dark" Margin="304,36,-305.333,-38.667" FontSize="10.667"/>
+
+            <TextBlock x:ConnectionId='6' x:Name="UserNameHeader" HorizontalAlignment="Left" Height="18" TextWrapping="Wrap" Text="Benkhalifa" VerticalAlignment="Top" Width="90" RequestedTheme="Dark" Margin="187,10,-215.333,-8" FontSize="13.333" FontWeight="Bold"/>
+            <TextBlock x:ConnectionId='7' x:Name="UserPrenameHeader" HorizontalAlignment="Left" Height="18" TextWrapping="Wrap" Text="Mariem" VerticalAlignment="Top" Width="46" RequestedTheme="Dark" Margin="257,10,-241.333,-8" FontSize="13.333"/>
+            <TextBlock x:ConnectionId='8' x:Name="Country" HorizontalAlignment="Left" Height="16" TextWrapping="Wrap" Text="Tunisie" VerticalAlignment="Top" Width="80" RequestedTheme="Dark" Margin="187,28,-205.333,-24" FontSize="13.333" FontWeight="Bold"/>
+            <TextBlock x:ConnectionId='9' x:Name="UserTown" HorizontalAlignment="Left" Height="16" TextWrapping="Wrap" Text="Bizerte" VerticalAlignment="Top" Width="65" RequestedTheme="Dark" Margin="238,28,-241.333,-24" FontSize="13.333" Foreground="#FFFFCC00"/>
+
+            <Image Source="Assets/TapisTradi.png" Margin="78,85,204,91"/>
+            <TextBlock Text="Tapis Traditionel" RequestedTheme="Dark" Margin="171,69,-171.667,-69" />
+            <TextBlock Text="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. " RequestedTheme="Dark" TextWrapping="Wrap" Margin="171,96,10,-148" FontSize="5.333" MaxLines="4"  />
+            <Rectangle Fill="#FF0C0C0C" Margin="55,165,-360,-389" Opacity="0.6" />
+            <Pivot x:ConnectionId='10' Name="mypivot" Margin="64,165,10,-360" >
+
+
+
+
+                <PivotItem  Background="Black" Margin="12,-40,12,0"  >
+
+                    <StackPanel x:ConnectionId='77' Name="Pivot1" >
+                        <StackPanel.Background>
+                            <ImageBrush Stretch="Fill"  >
+                                <ImageBrush.ImageSource>
+                                    <BitmapImage  UriSource="http://localhost/PIMTLS/Image/cerise.jpg"  />
+                                </ImageBrush.ImageSource>
+
+                            </ImageBrush>
+
+
+                        </StackPanel.Background>
+                        <StackPanel  Margin="0,120,0,0" Height="69">
+                            <StackPanel.Background>
+                                <ImageBrush Stretch="Fill" ImageSource="Assets/OpacityRect.png"/>
+                            </StackPanel.Background>
+                            <TextBlock Text="Tapis Rouge Martre" RequestedTheme="Dark" FontSize="13.333" Margin="10,0,0,0" />
+                            <TextBlock Text="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat" RequestedTheme="Dark" FontSize="9.333" TextWrapping="Wrap" MaxLines="3" Margin="10,0,0,0"/>
+                        </StackPanel>
+                    </StackPanel>
+
+
+                </PivotItem>
+                <PivotItem x:ConnectionId='74'  Background="Black" Margin="12,-40,12,0"                        >
+
+
+                    <StackPanel x:ConnectionId='76'  Name="Pivot2" >
+                        <StackPanel.Background>
+                            <ImageBrush  Stretch="Fill" ImageSource="Assets/Tapis1.jpg"/>
+                        </StackPanel.Background>
+                        <StackPanel  Margin="0,120,0,0" Height="69">
+                            <StackPanel.Background>
+                                <ImageBrush Stretch="Fill" ImageSource="Assets/OpacityRect.png"/>
+                            </StackPanel.Background>
+                            <TextBlock Text="Tapis Made Gafsa" RequestedTheme="Dark" FontSize="13.333" Margin="10,0,0,0" />
+                            <TextBlock Text="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat" RequestedTheme="Dark" FontSize="9.333" TextWrapping="Wrap" MaxLines="3" Margin="10,0,0,0"/>
+                        </StackPanel>
+                    </StackPanel>
+
+                </PivotItem>
+
+                <PivotItem  Background="Black" Margin="12,-40,12,0">
+
+
+                    <StackPanel x:ConnectionId='75'  Name="Pivot3">
+                        <StackPanel.Background>
+                            <ImageBrush  Stretch="Fill" ImageSource="Assets/Tapis3.jpg"/>
+                        </StackPanel.Background>
+                        <StackPanel  Margin="0,120,0,0" Height="69">
+                            <StackPanel.Background>
+                                <ImageBrush Stretch="Fill" ImageSource="Assets/OpacityRect.png"/>
+                            </StackPanel.Background>
+                            <TextBlock Text="Décoration de tapis" RequestedTheme="Dark" FontSize="13.333" Margin="10,0,0,0" />
+                            <TextBlock Text="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat" RequestedTheme="Dark" FontSize="9.333" TextWrapping="Wrap" MaxLines="3" Margin="10,0,0,0"/>
+                        </StackPanel>
+                    </StackPanel>
+
+                </PivotItem>
+
+
+            </Pivot>
+
+            <Image x:ConnectionId='11' Name="Circle1" Source="Assets/CercleFull.png" Margin="187,372,163,-22"/>
+            <Image x:ConnectionId='12' Name="Circle2" Source="Assets/CercleVide.png" Margin="204,372,146,-22"/>
+            <Image x:ConnectionId='13' Name="Circle3" Source="Assets/CercleVide.png" Margin="220,372,130,-22"/>
+
+            <TextBlock x:ConnectionId='14' Name="ProductName" Text="Tapis De Gafsa" RequestedTheme="Dark" Margin="78,401,-78.667,-401" FontSize="18.667" Foreground="#FFFFCB31" />
+            <TextBlock   Text="Prix : " RequestedTheme="Dark" Margin="79,427,-81,-427.667" FontSize="14.667" Foreground="#FFFFCB31" FontWeight="Bold" />
+            <TextBlock  Text="Quantité : " RequestedTheme="Dark" Margin="78,452,-80.667,-453" FontSize="14.667" Foreground="#FFFFCB31" FontWeight="Bold" />
+            <TextBlock  Text="Description :" RequestedTheme="Dark" Margin="78,477,-81.333,-478.333" FontSize="14.667" Foreground="#FFFFCB31" FontWeight="Bold" />
+            <TextBlock x:ConnectionId='15' Name="ProductPrice" Text="150dt" RequestedTheme="Dark" Margin="120,427,-126,-429.667" FontSize="14.667" Foreground="White" />
+            <TextBlock x:ConnectionId='16' Name="ProductQuantite" Text="20" RequestedTheme="Dark" Margin="151,452,-155.667,-455" FontSize="14.667" Foreground="White" />
+            <TextBlock x:ConnectionId='17' Name="ProductDesc" Text="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure " RequestedTheme="Dark" Margin="78,502,122.333,-579" FontSize="9.333" Foreground="White" TextWrapping="Wrap" MaxLines="5" />
+            <Image x:ConnectionId='18' Name="OwnerImage" Source="Assets/Anas.png" Margin="257,401,20,-127.667"/>
+            <TextBlock x:ConnectionId='19' Name="OwnerName" Text="Mazouni Anas" RequestedTheme="Dark" Margin="248,486,-248.667,-486.333" FontSize="14.667" Foreground="#FFFFCB31" />
+            <TextBlock x:ConnectionId='20' Name="OwnerNumber" Text="98.227.145" RequestedTheme="Dark" Margin="270,506,-272.333,-507.333" FontSize="9.333" Foreground="White" />
+            <Button x:ConnectionId='21' Height="33" Margin="238,524,-330,-545" Width="112" Content="Visiter le vendeur" Background="#FFFFCB31" FontSize="12"                      />
+            <Rectangle Margin="55,570,-360,-640" Fill="Black" />
+            <Image x:ConnectionId='22' Name="Rating" Source="Assets/starvide.png" Margin="183,579,143,-193" RenderTransformOrigin="0.5,0.5"                       >
+                
+            </Image>
+            <Image x:ConnectionId='23' Name="Rating1" Source="Assets/starvide.png" Margin="217,579,109,-193" RenderTransformOrigin="0.5,0.5"                        >
+
+            </Image>
+            <Image x:ConnectionId='24' Name="Rating2" Source="Assets/starvide.png" Margin="280,579,46,-193" RenderTransformOrigin="0.5,0.5"                        >
+
+            </Image>
+            <Image x:ConnectionId='25' Name="Rating3" Source="Assets/starvide.png" Margin="248,579,78,-193" RenderTransformOrigin="0.5,0.5"                        >
+
+            </Image>
+            <Image x:ConnectionId='26' Name="Rating4" Source="Assets/starvide.png" Margin="314,579,12,-193" RenderTransformOrigin="0.5,0.5"                        >
+
+            </Image>
+            <TextBlock Text="Noter Ce Produit" RequestedTheme="Dark" Margin="96,588,-99.667,-590.667" FontSize="9.333" Foreground="White" />
+
+            <SplitView x:ConnectionId='27' Name="MySplitView"  
+                  
+                   DisplayMode="CompactOverlay"  
+                   OpenPaneLength="200"  
+                   CompactPaneLength="56"  
+                   HorizontalAlignment="Left" Margin="0,49,-124,-64" PaneBackground="Black" Width="197">
+                <SplitView.Pane>
+                    <ListBox x:ConnectionId='32' SelectionMode="Single"  
+                         Name="IconsListBox"  
+                                                                          Background="Black" Height="600">
+                        <ListBoxItem x:ConnectionId='33' Name="ShareListBoxItem">
+                            <StackPanel Orientation="Horizontal">
+                                <Image x:ConnectionId='70' x:Name="Nouri" HorizontalAlignment="Left" Height="27" VerticalAlignment="Top" Width="82" Source="Assets/NourritureS.png" Margin="0,0,-48,-44"/>
+                                <StackPanel Orientation="Vertical">
+                                    <TextBlock x:ConnectionId='71' Name="TitleG" Text="Nourriture" FontSize="13.333" Margin="20,0,0,0" RequestedTheme="Dark" />
+                                    <TextBlock x:ConnectionId='72' Name="TitleD" Text="How does this sample solve the problem? With all of the new and exciting features coming out with Windows 10 development, " FontSize="6.667" Margin="20,0,0,0" RequestedTheme="Dark" Width="109" Height="12" />
+                                </StackPanel>
+                            </StackPanel>
+                        </ListBoxItem>
+
+                        <ListBoxItem x:ConnectionId='34' Name="FavoritesListBoxItem">
+                            <StackPanel Orientation="Horizontal">
+                                <Image x:ConnectionId='67' x:Name="Artis" HorizontalAlignment="Left" Height="27" VerticalAlignment="Top" Width="82" Source="Assets/ArtisanatS.png" Margin="0,0,-48,-44"/>
+                                <StackPanel Orientation="Vertical">
+                                    <TextBlock x:ConnectionId='68' Name="TitleA" Text="Artisanat" FontSize="13.333" Margin="20,0,0,0" RequestedTheme="Dark" />
+                                    <TextBlock x:ConnectionId='69' Name="TitleB" Text="How does this sample solve the problem? With all of the new and exciting features coming out with Windows 10 development, " FontSize="6.667" Margin="20,0,0,0" RequestedTheme="Dark" Width="109" Height="12" />
+                                </StackPanel>
+                            </StackPanel>
+                        </ListBoxItem>
+                        <ListBoxItem x:ConnectionId='35' Name="ServiceListBoxItem">
+                            <StackPanel Orientation="Horizontal">
+                                <Image x:ConnectionId='64' x:Name="Serv" HorizontalAlignment="Left" Height="27" VerticalAlignment="Top" Width="82" Source="Assets/Services.png" Margin="0,0,-48,-44"/>
+                                <StackPanel Orientation="Vertical">
+                                    <TextBlock x:ConnectionId='65' Name="TitleC" Text="Services" FontSize="13.333" Margin="20,0,0,0" RequestedTheme="Dark" />
+                                    <TextBlock x:ConnectionId='66' Name="TitleF" Text="How does this sample solve the problem? With all of the new and exciting features coming out with Windows 10 development, " FontSize="6.667" Margin="20,0,0,0" RequestedTheme="Dark" Width="109" Height="12" />
+                                </StackPanel>
+                            </StackPanel>
+                        </ListBoxItem>
+                        <ListBoxItem x:ConnectionId='36' Name="MultimediaListBoxItem">
+                            <StackPanel Orientation="Horizontal">
+                                <Image x:ConnectionId='61' x:Name="multi" HorizontalAlignment="Left" Height="27" VerticalAlignment="Top" Width="82" Source="Assets/Multimedia.png" Margin="0,0,-48,-44"/>
+                                <StackPanel Orientation="Vertical">
+                                    <TextBlock x:ConnectionId='62' Name="TitleH" Text="Multimedia" FontSize="13.333" Margin="20,0,0,0" RequestedTheme="Dark" />
+                                    <TextBlock x:ConnectionId='63' Name="TitleI" Text="How does this sample solve the problem? With all of the new and exciting features coming out with Windows 10 development, " FontSize="6.667" Margin="20,0,0,0" RequestedTheme="Dark" Width="109" Height="12" />
+                                </StackPanel>
+                            </StackPanel>
+                        </ListBoxItem>
+                        <ListBoxItem x:ConnectionId='37' Name="ImmobilierListBoxItem">
+                            <StackPanel Orientation="Horizontal">
+                                <Image x:ConnectionId='58' x:Name="imob" HorizontalAlignment="Left" Height="27" VerticalAlignment="Top" Width="82" Source="Assets/Immobilier.png" Margin="0,0,-48,-44"/>
+                                <StackPanel Orientation="Vertical">
+                                    <TextBlock x:ConnectionId='59' Name="TitleY" Text="Immobilier" FontSize="13.333" Margin="20,0,0,0" RequestedTheme="Dark" />
+                                    <TextBlock x:ConnectionId='60' Name="Titlep" Text="How does this sample solve the problem? With all of the new and exciting features coming out with Windows 10 development, " FontSize="6.667" Margin="20,0,0,0" RequestedTheme="Dark" Width="109" Height="12" />
+                                </StackPanel>
+                            </StackPanel>
+                        </ListBoxItem>
+                        <ListBoxItem x:ConnectionId='38' Name="VettementListBoxItem">
+                            <StackPanel Orientation="Horizontal">
+                                <Image x:ConnectionId='55' x:Name="vet" HorizontalAlignment="Left" Height="27" VerticalAlignment="Top" Width="82" Source="Assets/Vetement.png" Margin="0,0,-48,-44"/>
+                                <StackPanel Orientation="Vertical">
+                                    <TextBlock x:ConnectionId='56' x:Name="TitleU" Text="Vetements" FontSize="13.333" Margin="20,0,0,0" RequestedTheme="Dark" />
+                                    <TextBlock x:ConnectionId='57' x:Name="TitleT" Text="How does this sample solve the problem? With all of the new and exciting features coming out with Windows 10 development, " FontSize="6.667" Margin="20,0,0,0" RequestedTheme="Dark" Width="109" Height="12" />
+                                </StackPanel>
+                            </StackPanel>
+                        </ListBoxItem>
+                        <ListBoxItem x:ConnectionId='39' Name="VehiculeListBoxItem">
+                            <StackPanel Orientation="Horizontal">
+                                <Image x:ConnectionId='52' x:Name="veh" HorizontalAlignment="Left" Height="27" VerticalAlignment="Top" Width="82" Source="Assets/Wheel.png" Margin="0,0,-48,-44"/>
+                                <StackPanel Orientation="Vertical">
+                                    <TextBlock x:ConnectionId='53' Name="Titlepo" Text="Vehicules" FontSize="13.333" Margin="20,0,0,0" RequestedTheme="Dark" />
+                                    <TextBlock x:ConnectionId='54' Name="Titlepa" Text="How does this sample solve the problem? With all of the new and exciting features coming out with Windows 10 development, " FontSize="6.667" Margin="20,0,0,0" RequestedTheme="Dark" Width="109" Height="12" />
+                                </StackPanel>
+                            </StackPanel>
+                        </ListBoxItem>
+                        <Rectangle Height="1" Width="156" Fill="#FFBCBCBC" RenderTransformOrigin="0.5,0.5">
+                            <Rectangle.RenderTransform>
+                                <CompositeTransform ScaleY="-1"/>
+                            </Rectangle.RenderTransform>
+                        </Rectangle>
+                        <ListBoxItem x:ConnectionId='40' Name="SearchListBoxItem" Background="#FFC29A25">
+                            <StackPanel Orientation="Horizontal">
+                                <Image x:ConnectionId='49' x:Name="veho" HorizontalAlignment="Left" Height="27" VerticalAlignment="Top" Width="82" Source="Assets/loop.png" Margin="0,0,-48,-44"/>
+                                <StackPanel Orientation="Vertical">
+                                    <TextBlock x:ConnectionId='50' Name="Titlepoo" Text="Rechercher" FontSize="13.333" Margin="20,0,0,0" RequestedTheme="Dark" />
+                                    <TextBlock x:ConnectionId='51' Name="Titlepaa" Text="How does this sample solve the problem? With all of the new and exciting features coming out with Windows 10 development, " FontSize="6.667" Margin="20,0,0,0" RequestedTheme="Dark" Width="109" Height="12" />
+                                </StackPanel>
+                            </StackPanel>
+                        </ListBoxItem>
+
+                        <ListBoxItem x:ConnectionId='41' Name="SettingListBoxItem" Background="#FFF83A70">
+                            <StackPanel Orientation="Horizontal">
+                                <Image x:ConnectionId='46' x:Name="vehoop" HorizontalAlignment="Left" Height="27" VerticalAlignment="Top" Width="82" Source="Assets/SettingBtn2.png" Margin="0,0,-48,-44"/>
+                                <StackPanel Orientation="Vertical">
+                                    <TextBlock x:ConnectionId='47' Name="Titlepop" Text="Votre Compte" FontSize="13.333" Margin="20,0,0,0" RequestedTheme="Dark" />
+                                    <TextBlock x:ConnectionId='48' Name="Titlepai" Text="How does this sample solve the problem? With all of the new and exciting features coming out with Windows 10 development, " FontSize="6.667" Margin="20,0,0,0" RequestedTheme="Dark" Width="109" Height="12" />
+                                </StackPanel>
+                            </StackPanel>
+                        </ListBoxItem>
+
+                        <ListBoxItem x:ConnectionId='42' Name="LogoutListBoxItem" Background="#FF268FB6">
+                            <StackPanel Orientation="Horizontal">
+                                <Image x:ConnectionId='43' x:Name="vehoox" HorizontalAlignment="Left" Height="27" VerticalAlignment="Top" Width="82" Source="Assets/LogoutBtn2.png" Margin="0,0,-48,-44"/>
+                                <StackPanel Orientation="Vertical">
+                                    <TextBlock x:ConnectionId='44' Name="Titlepox" Text="Déconnexion" FontSize="13.333" Margin="20,0,0,0" RequestedTheme="Dark" />
+                                    <TextBlock x:ConnectionId='45' Name="Titlepax" Text="How does this sample solve the problem? With all of the new and exciting features coming out with Windows 10 development, " FontSize="6.667" Margin="20,0,0,0" RequestedTheme="Dark" Width="109" Height="12" />
+                                </StackPanel>
+                            </StackPanel>
+                        </ListBoxItem>
+
+
+
+
+                    </ListBox>
+                </SplitView.Pane>
+                <SplitView.Content>
+                    <TextBlock x:ConnectionId='73' Name="ResultTextBlock" />
+                </SplitView.Content>
+            </SplitView>
+
+            <StackPanel x:ConnectionId='28' Name="NotifPannel" Margin="78,61,-339,-377" Visibility="Collapsed">
+                <StackPanel.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="Assets/Notif.png"/>
+                </StackPanel.Background>
+                <ListView x:ConnectionId='29'  HorizontalAlignment="Center" x:Name="NotifLIst" Height="272" VerticalAlignment="Center" Width="241"                                 Margin="10,30,10,0">
+                    <ListView.ItemTemplate >
+                        <DataTemplate                           >
+                            <StackPanel x:ConnectionId='30' Orientation="Horizontal" HorizontalAlignment="Center">
+                                <StackPanel Width="56">
+                                    <Image x:ConnectionId='31' Height="42"                              Margin="2,0,10,0"/>
+
+                                </StackPanel>
+                                <StackPanel>
+                                    <TextBlock Text="Vend des pomme de terre a 2 kilométres de vous" RequestedTheme="Dark" FontSize="10.667" TextWrapping="Wrap" Width="172"/>
+                                    <TextBlock FontSize="9.333" TextWrapping="Wrap"  Text="Il y a 5 minutes" RequestedTheme="Dark" Height="19" Width="173" MaxLines="5" LineStackingStrategy="BlockLineHeight" Foreground="#FFFFCB31"/>
+                                </StackPanel>
+                            </StackPanel>
+
+                        </DataTemplate>
+
+                    </ListView.ItemTemplate>
+
+                </ListView>
+
+            </StackPanel>
+        </RelativePanel>
+    </Grid>
+</Page>
+

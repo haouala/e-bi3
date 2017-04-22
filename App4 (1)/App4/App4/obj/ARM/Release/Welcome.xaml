@@ -1,0 +1,282 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="App4.Welcome"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App4"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:data="using:App4.Models"
+    mc:Ignorable="d">
+
+    <Grid >
+
+        <Grid.Background>
+
+            <ImageBrush Stretch="Fill" ImageSource="Assets/Logobick.jpg"/>
+        </Grid.Background>
+        <RelativePanel >
+            <Rectangle Margin="0,0,-564,-160" Fill="Black"></Rectangle>
+            <Button x:ConnectionId='2' Height="64" Margin="0,0,-28,-52" Width="48" Name="DrawerOpner" FontFamily="Segoe MDL2 Assets" Content="&#xE700;" RequestedTheme="Dark" Background="#33000000" FontSize="26.667"                              />
+            <Button x:ConnectionId='3' x:Name="Homebtn" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="45" Margin="78,4,224,12" Width="52"                      >
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="Assets/Homebtn.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:ConnectionId='4' x:Name="UserHeaderImg" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" RenderTransformOrigin="0.484,0.486" Margin="308,10,-350,-53"                            >
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="Assets/UserHraderImg.png"/>
+                </Button.Background>
+            </Button>
+            <TextBlock x:ConnectionId='5' x:Name="UserNameHeader" HorizontalAlignment="Left" Height="18" TextWrapping="Wrap" Text="Benkhalifa" VerticalAlignment="Top" Width="90" RequestedTheme="Dark" Margin="187,10,-215.333,-8" FontSize="13.333" FontWeight="Bold"/>
+            <TextBlock x:ConnectionId='6' x:Name="UserPrenameHeader" HorizontalAlignment="Left" Height="18" TextWrapping="Wrap" Text="Mariem" VerticalAlignment="Top" Width="46" RequestedTheme="Dark" Margin="257,10,-241.333,-8" FontSize="13.333"/>
+            <TextBlock x:ConnectionId='7' x:Name="Country" HorizontalAlignment="Left" Height="16" TextWrapping="Wrap" Text="Tunisie" VerticalAlignment="Top" Width="80" RequestedTheme="Dark" Margin="187,28,-205.333,-24" FontSize="13.333" FontWeight="Bold"/>
+            <TextBlock x:ConnectionId='8' x:Name="UserTown" HorizontalAlignment="Left" Height="16" TextWrapping="Wrap" Text="Bizerte" VerticalAlignment="Top" Width="65" RequestedTheme="Dark" Margin="238,28,-241.333,-24" FontSize="13.333" Foreground="#FFFFCC00"/>
+
+            <Image Source="Assets/CercleRougeFull.png" Margin="300,34,40,310"  RenderTransformOrigin="0.5,0.5" Opacity="0.5">
+                <Image.RenderTransform>
+                    <CompositeTransform ScaleY="-1"/>
+                </Image.RenderTransform>
+            </Image>
+            <TextBlock x:ConnectionId='9' Name="NbrNotif" Text="16" RequestedTheme="Dark" Margin="304,36,-305.333,-38.667" FontSize="10.667"/>
+
+
+            <Image x:ConnectionId='10' x:Name="ProducerIMG" HorizontalAlignment="Left" Height="75" VerticalAlignment="Top" Width="91" Margin="60,69,-151,-144" Source="Assets/Anas.png"/>
+            <TextBlock x:ConnectionId='11' x:Name="UserName" HorizontalAlignment="Left" Height="20" TextWrapping="Wrap" Text="Mazouni Anas" VerticalAlignment="Top" Width="157" RequestedTheme="Dark" Margin="171,69,-266.333,-69"/>
+            <TextBlock x:ConnectionId='12' x:Name="UserDescription" HorizontalAlignment="Left" Height="50" TextWrapping="Wrap" Text=" Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.Hassan" VerticalAlignment="Top" Width="179" RequestedTheme="Dark" Margin="171,94,-288.333,-124" FontSize="5.333"/>
+            <Rectangle Fill="#FFFFCB31" Margin="56,160,-360,-164"></Rectangle>
+            <TextBlock x:ConnectionId='13' x:Name="Ville" HorizontalAlignment="Left" Height="20" TextWrapping="Wrap" Text="Ville" VerticalAlignment="Top" Width="62" RequestedTheme="Dark" Margin="68,169,-68.333,-169" FontWeight="Bold" Foreground="#FFFFCB31" FontSize="12"/>
+            <TextBlock x:ConnectionId='14' x:Name="ProducerTown" HorizontalAlignment="Left" Height="20" TextWrapping="Wrap" Text="Elkef, Barnoussa" VerticalAlignment="Top" Width="109" RequestedTheme="Dark" Margin="106,169,-153.333,-169" FontSize="12"/>
+            <TextBlock x:ConnectionId='15' x:Name="Metier" HorizontalAlignment="Left" Height="20" TextWrapping="Wrap" Text="Metier" VerticalAlignment="Top" Width="52" RequestedTheme="Dark" Margin="68,189,-58.333,-189" FontWeight="Bold" Foreground="#FFFFCB31" FontSize="12"/>
+            <TextBlock x:ConnectionId='16' x:Name="ProducerWork" HorizontalAlignment="Left" Height="20" TextWrapping="Wrap" Text="Artisan" VerticalAlignment="Top" Width="109" RequestedTheme="Dark" Margin="120,189,-167.333,-189" FontSize="12"/>
+            <Image x:ConnectionId='17' Source="Assets/Here.png" Margin="68,214,244,118"                    />
+            <TextBlock x:ConnectionId='18' x:Name="ProducerAdress" HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" Text="6, Rue d'Alger El Kef 7100" VerticalAlignment="Top" Width="79" RequestedTheme="Dark" Margin="121,223,-138.333,-233" FontSize="8"/>
+
+            <Image x:ConnectionId='19' x:Name="Rating" HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="111" Margin="229,201,-340,-226" Source="Assets/Rating.png"/>
+            <TextBlock x:ConnectionId='20' x:Name="RatingTxt" HorizontalAlignment="Left" Height="20" TextWrapping="Wrap" Text="Rating" VerticalAlignment="Top" Width="62" RequestedTheme="Dark" Margin="257,176,-257.333,-176"/>
+            <TextBlock x:ConnectionId='21' x:Name="RatingNbr" HorizontalAlignment="Left" Height="13" TextWrapping="Wrap" Text="4230" VerticalAlignment="Top" Width="28" RequestedTheme="Dark" Margin="257,231,-223.333,-224" FontSize="9.333"/>
+            <Image x:ConnectionId='22' x:Name="UserLock" HorizontalAlignment="Left" Height="19" VerticalAlignment="Top" Width="18" Margin="285,228,-303,-247" Source="Assets/LoginLock.png"/>
+            <Image x:ConnectionId='23' x:Name="TelImg" HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="27" Margin="103,281,-130,-311" Source="Assets/Telephone.png"/>
+            <TextBlock x:ConnectionId='24' x:Name="ProducerPhone" HorizontalAlignment="Left" Height="20" TextWrapping="Wrap" Text="(+216) 52.444.024" VerticalAlignment="Top" Width="139" RequestedTheme="Dark" Margin="138,285,-215.333,-285"/>
+            <Image x:ConnectionId='25' x:Name="MailIMG" HorizontalAlignment="Left" Height="19" VerticalAlignment="Top" Width="27" Margin="103,316,-130,-335" Source="Assets/Mail.png"/>
+            <TextBlock x:ConnectionId='26' x:Name="ProducerMail" HorizontalAlignment="Left" Height="20" TextWrapping="Wrap" Text="hassan.barbouche@esprit.tn" VerticalAlignment="Top" Width="202" RequestedTheme="Dark" Margin="138,315,-278.333,-315"/>
+            <Button x:ConnectionId='27' x:Name="CallBtn" Content="Appeler" HorizontalAlignment="Left" Height="32" VerticalAlignment="Top" Width="86" Margin="69,351,-91,-351" Background="#FFFFCB31" RenderTransformOrigin="1,1" Foreground="White" FontSize="10.667" Padding="8,4,-5,4"/>
+            <Button x:ConnectionId='28' x:Name="SendMailBtn" Content="Env.Mail" HorizontalAlignment="Left" Height="32" VerticalAlignment="Top" Width="86" Margin="162,351,-184,-351" Background="#FFF83A70" RenderTransformOrigin="1,1" Foreground="White" FontSize="10.667" Padding="8,4,-5,4"/>
+            <Button x:ConnectionId='29' x:Name="CommentBtn" Content="Commenter" HorizontalAlignment="Left" Height="32" VerticalAlignment="Top" Width="86" Margin="255,351,-277,-351" Background="#FF268FB6" RenderTransformOrigin="1,1" Foreground="White" FontSize="10.667" Padding="8,4,-5,4"                         />
+            <Image x:ConnectionId='30' x:Name="TelImg_Copy" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="18" Margin="78,357,-96,-377" Source="Assets/Telephone.png"/>
+            <Image x:ConnectionId='31' x:Name="MailIMG_Copy" HorizontalAlignment="Left" Height="13" VerticalAlignment="Top" Width="20" Margin="171,361,-191,-374" Source="Assets/Mail.png"/>
+            <Image x:ConnectionId='32' x:Name="MailIMG_Copy1" HorizontalAlignment="Left" Height="16" VerticalAlignment="Top" Width="20" Margin="261,357,-281,-373" Source="Assets/Pen.png"/>
+
+            <ListView x:ConnectionId='33'  HorizontalAlignment="Center" x:Name="CommentList" Height="181" VerticalAlignment="Center" Width="251" Margin="89,449,-59,-620"                                >
+                <ListView.ItemTemplate >
+                    <DataTemplate                           >
+                        <StackPanel x:ConnectionId='95' Orientation="Horizontal" HorizontalAlignment="Center">
+                            <StackPanel Width="56">
+                                <Image x:ConnectionId='98' Width="42" Height="42"                              Margin="0,0,10,0"/>
+                                <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                                    <Image x:ConnectionId='99' Name="Thumb" Width="20" Height="20"                         Margin="0,0,10,0"/>
+                                    <TextBlock x:ConnectionId='100' Name="NoteNbr" FontSize="13.333"                            RequestedTheme="Dark" Height="17" Margin="0" FontWeight="Bold" Width="42"/>
+                                </StackPanel>
+                            </StackPanel>
+                            <StackPanel>
+                                <TextBlock x:ConnectionId='96'                          RequestedTheme="Dark"/>
+                                <TextBlock x:ConnectionId='97' FontSize="9.333" TextWrapping="Wrap"                            RequestedTheme="Dark" Height="98" Width="173" MaxLines="5" LineStackingStrategy="BlockLineHeight"/>
+                            </StackPanel>
+                        </StackPanel>
+
+                    </DataTemplate>
+
+                </ListView.ItemTemplate>
+
+            </ListView>
+
+
+
+
+            <SplitView x:ConnectionId='34' Name="MySplitView"  
+                  
+                   DisplayMode="CompactOverlay"  
+                   OpenPaneLength="200"  
+                   CompactPaneLength="56"  
+                   HorizontalAlignment="Left" Margin="0,49,0,-64" PaneBackground="Black" Width="60">
+                <SplitView.Pane>
+                    <ListBox x:ConnectionId='53' SelectionMode="Single"  
+                         Name="IconsListBox"  
+                                                                          Background="Black" Height="600">
+                        <ListBoxItem x:ConnectionId='54' Name="ShareListBoxItem">
+                            <StackPanel Orientation="Horizontal">
+                                <Image x:ConnectionId='91' x:Name="Nouri" HorizontalAlignment="Left" Height="27" VerticalAlignment="Top" Width="82" Source="Assets/NourritureS.png" Margin="0,0,-48,-44"/>
+                                <StackPanel Orientation="Vertical">
+                                    <TextBlock x:ConnectionId='92' Name="TitleG" Text="Nourriture" FontSize="13.333" Margin="20,0,0,0" RequestedTheme="Dark" />
+                                    <TextBlock x:ConnectionId='93' Name="TitleD" Text="How does this sample solve the problem? With all of the new and exciting features coming out with Windows 10 development, " FontSize="6.667" Margin="20,0,0,0" RequestedTheme="Dark" Width="109" Height="12" />
+                                </StackPanel>
+                            </StackPanel>
+                        </ListBoxItem>
+
+                        <ListBoxItem x:ConnectionId='55' Name="FavoritesListBoxItem">
+                            <StackPanel Orientation="Horizontal">
+                                <Image x:ConnectionId='88' x:Name="Artis" HorizontalAlignment="Left" Height="27" VerticalAlignment="Top" Width="82" Source="Assets/ArtisanatS.png" Margin="0,0,-48,-44"/>
+                                <StackPanel Orientation="Vertical">
+                                    <TextBlock x:ConnectionId='89' Name="TitleA" Text="Artisanat" FontSize="13.333" Margin="20,0,0,0" RequestedTheme="Dark" />
+                                    <TextBlock x:ConnectionId='90' Name="TitleB" Text="How does this sample solve the problem? With all of the new and exciting features coming out with Windows 10 development, " FontSize="6.667" Margin="20,0,0,0" RequestedTheme="Dark" Width="109" Height="12" />
+                                </StackPanel>
+                            </StackPanel>
+                        </ListBoxItem>
+                        <ListBoxItem x:ConnectionId='56' Name="ServiceListBoxItem">
+                            <StackPanel Orientation="Horizontal">
+                                <Image x:ConnectionId='85' x:Name="Serv" HorizontalAlignment="Left" Height="27" VerticalAlignment="Top" Width="82" Source="Assets/Services.png" Margin="0,0,-48,-44"/>
+                                <StackPanel Orientation="Vertical">
+                                    <TextBlock x:ConnectionId='86' Name="TitleC" Text="Services" FontSize="13.333" Margin="20,0,0,0" RequestedTheme="Dark" />
+                                    <TextBlock x:ConnectionId='87' Name="TitleF" Text="How does this sample solve the problem? With all of the new and exciting features coming out with Windows 10 development, " FontSize="6.667" Margin="20,0,0,0" RequestedTheme="Dark" Width="109" Height="12" />
+                                </StackPanel>
+                            </StackPanel>
+                        </ListBoxItem>
+                        <ListBoxItem x:ConnectionId='57' Name="MultimediaListBoxItem">
+                            <StackPanel Orientation="Horizontal">
+                                <Image x:ConnectionId='82' x:Name="multi" HorizontalAlignment="Left" Height="27" VerticalAlignment="Top" Width="82" Source="Assets/Multimedia.png" Margin="0,0,-48,-44"/>
+                                <StackPanel Orientation="Vertical">
+                                    <TextBlock x:ConnectionId='83' Name="TitleH" Text="Multimedia" FontSize="13.333" Margin="20,0,0,0" RequestedTheme="Dark" />
+                                    <TextBlock x:ConnectionId='84' Name="TitleI" Text="How does this sample solve the problem? With all of the new and exciting features coming out with Windows 10 development, " FontSize="6.667" Margin="20,0,0,0" RequestedTheme="Dark" Width="109" Height="12" />
+                                </StackPanel>
+                            </StackPanel>
+                        </ListBoxItem>
+                        <ListBoxItem x:ConnectionId='58' Name="ImmobilierListBoxItem">
+                            <StackPanel Orientation="Horizontal">
+                                <Image x:ConnectionId='79' x:Name="imob" HorizontalAlignment="Left" Height="27" VerticalAlignment="Top" Width="82" Source="Assets/Immobilier.png" Margin="0,0,-48,-44"/>
+                                <StackPanel Orientation="Vertical">
+                                    <TextBlock x:ConnectionId='80' Name="TitleY" Text="Immobilier" FontSize="13.333" Margin="20,0,0,0" RequestedTheme="Dark" />
+                                    <TextBlock x:ConnectionId='81' Name="Titlep" Text="How does this sample solve the problem? With all of the new and exciting features coming out with Windows 10 development, " FontSize="6.667" Margin="20,0,0,0" RequestedTheme="Dark" Width="109" Height="12" />
+                                </StackPanel>
+                            </StackPanel>
+                        </ListBoxItem>
+                        <ListBoxItem x:ConnectionId='59' Name="VettementListBoxItem">
+                            <StackPanel Orientation="Horizontal">
+                                <Image x:ConnectionId='76' x:Name="vet" HorizontalAlignment="Left" Height="27" VerticalAlignment="Top" Width="82" Source="Assets/Vetement.png" Margin="0,0,-48,-44"/>
+                                <StackPanel Orientation="Vertical">
+                                    <TextBlock x:ConnectionId='77' x:Name="TitleU" Text="Vetements" FontSize="13.333" Margin="20,0,0,0" RequestedTheme="Dark" />
+                                    <TextBlock x:ConnectionId='78' x:Name="TitleT" Text="How does this sample solve the problem? With all of the new and exciting features coming out with Windows 10 development, " FontSize="6.667" Margin="20,0,0,0" RequestedTheme="Dark" Width="109" Height="12" />
+                                </StackPanel>
+                            </StackPanel>
+                        </ListBoxItem>
+                        <ListBoxItem x:ConnectionId='60' Name="VehiculeListBoxItem">
+                            <StackPanel Orientation="Horizontal">
+                                <Image x:ConnectionId='73' x:Name="veh" HorizontalAlignment="Left" Height="27" VerticalAlignment="Top" Width="82" Source="Assets/Wheel.png" Margin="0,0,-48,-44"/>
+                                <StackPanel Orientation="Vertical">
+                                    <TextBlock x:ConnectionId='74' Name="Titlepo" Text="Vehicules" FontSize="13.333" Margin="20,0,0,0" RequestedTheme="Dark" />
+                                    <TextBlock x:ConnectionId='75' Name="Titlepa" Text="How does this sample solve the problem? With all of the new and exciting features coming out with Windows 10 development, " FontSize="6.667" Margin="20,0,0,0" RequestedTheme="Dark" Width="109" Height="12" />
+                                </StackPanel>
+                            </StackPanel>
+                        </ListBoxItem>
+                        <Rectangle Height="1" Width="156" Fill="#FFBCBCBC" RenderTransformOrigin="0.5,0.5">
+                            <Rectangle.RenderTransform>
+                                <CompositeTransform ScaleY="-1"/>
+                            </Rectangle.RenderTransform>
+                        </Rectangle>
+                        <ListBoxItem x:ConnectionId='61' Name="SearchListBoxItem" Background="#FFC29A25">
+                            <StackPanel Orientation="Horizontal">
+                                <Image x:ConnectionId='70' x:Name="veho" HorizontalAlignment="Left" Height="27" VerticalAlignment="Top" Width="82" Source="Assets/loop.png" Margin="0,0,-48,-44"/>
+                                <StackPanel Orientation="Vertical">
+                                    <TextBlock x:ConnectionId='71' Name="Titlepoo" Text="Rechercher" FontSize="13.333" Margin="20,0,0,0" RequestedTheme="Dark" />
+                                    <TextBlock x:ConnectionId='72' Name="Titlepaa" Text="How does this sample solve the problem? With all of the new and exciting features coming out with Windows 10 development, " FontSize="6.667" Margin="20,0,0,0" RequestedTheme="Dark" Width="109" Height="12" />
+                                </StackPanel>
+                            </StackPanel>
+                        </ListBoxItem>
+
+                        <ListBoxItem x:ConnectionId='62' Name="SettingListBoxItem" Background="#FFF83A70">
+                            <StackPanel Orientation="Horizontal">
+                                <Image x:ConnectionId='67' x:Name="vehoop" HorizontalAlignment="Left" Height="27" VerticalAlignment="Top" Width="82" Source="Assets/SettingBtn2.png" Margin="0,0,-48,-44"/>
+                                <StackPanel Orientation="Vertical">
+                                    <TextBlock x:ConnectionId='68' Name="Titlepop" Text="Votre Compte" FontSize="13.333" Margin="20,0,0,0" RequestedTheme="Dark" />
+                                    <TextBlock x:ConnectionId='69' Name="Titlepai" Text="How does this sample solve the problem? With all of the new and exciting features coming out with Windows 10 development, " FontSize="6.667" Margin="20,0,0,0" RequestedTheme="Dark" Width="109" Height="12" />
+                                </StackPanel>
+                            </StackPanel>
+                        </ListBoxItem>
+
+                        <ListBoxItem x:ConnectionId='63' Name="LogoutListBoxItem" Background="#FF268FB6">
+                            <StackPanel Orientation="Horizontal">
+                                <Image x:ConnectionId='64' x:Name="vehoox" HorizontalAlignment="Left" Height="27" VerticalAlignment="Top" Width="82" Source="Assets/LogoutBtn2.png" Margin="0,0,-48,-44"/>
+                                <StackPanel Orientation="Vertical">
+                                    <TextBlock x:ConnectionId='65' Name="Titlepox" Text="Déconnexion" FontSize="13.333" Margin="20,0,0,0" RequestedTheme="Dark" />
+                                    <TextBlock x:ConnectionId='66' Name="Titlepax" Text="How does this sample solve the problem? With all of the new and exciting features coming out with Windows 10 development, " FontSize="6.667" Margin="20,0,0,0" RequestedTheme="Dark" Width="109" Height="12" />
+                                </StackPanel>
+                            </StackPanel>
+                        </ListBoxItem>
+
+
+
+
+                    </ListBox>
+                </SplitView.Pane>
+                <SplitView.Content>
+                    <TextBlock x:ConnectionId='94' Name="ResultTextBlock" />
+                </SplitView.Content>
+            </SplitView>
+
+            <StackPanel x:ConnectionId='35' Name="NotifPannel" Margin="78,61,-339,-377" Visibility="Collapsed">
+                <StackPanel.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="Assets/Notif.png"/>
+                </StackPanel.Background>
+                <ListView x:ConnectionId='50'  HorizontalAlignment="Center" x:Name="NotifLIst" Height="272" VerticalAlignment="Center" Width="241"                                 Margin="10,30,10,0">
+                    <ListView.ItemTemplate >
+                        <DataTemplate                           >
+                            <StackPanel x:ConnectionId='51' Orientation="Horizontal" HorizontalAlignment="Center">
+                                <StackPanel Width="56">
+                                    <Image x:ConnectionId='52' Height="42"                              Margin="2,0,10,0"/>
+
+                                </StackPanel>
+                                <StackPanel>
+                                    <TextBlock Text="Vend des pomme de terre a 2 kilométres de vous" RequestedTheme="Dark" FontSize="10.667" TextWrapping="Wrap" Width="172"/>
+                                    <TextBlock FontSize="9.333" TextWrapping="Wrap"  Text="Il y a 5 minutes" RequestedTheme="Dark" Height="19" Width="173" MaxLines="5" LineStackingStrategy="BlockLineHeight" Foreground="#FFFFCB31"/>
+                                </StackPanel>
+                            </StackPanel>
+
+                        </DataTemplate>
+
+                    </ListView.ItemTemplate>
+
+                </ListView>
+
+            </StackPanel>
+            <StackPanel x:ConnectionId='36' Margin="56,164,-360,-640" Name="CommentPannel" Opacity="0.8" Visibility="Collapsed">
+                <StackPanel.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="Assets/OpacityRectDark.png"/>
+                </StackPanel.Background>
+
+
+
+                <TextBox x:ConnectionId='37' x:Name="CommentBox" TextWrapping="Wrap" Text="Tappez votre commentaire..." Height="112" Margin="10,20,10,0" RequestedTheme="Dark" BorderThickness="2" BorderBrush="#FFFFCB31" FontSize="10.667"/>
+                <StackPanel Height="35" Margin="0,10,0,0" Orientation="Horizontal" Background="Black">
+                    <Image x:ConnectionId='40' Name="Down5" Source="Assets/CercleRougeVide.png" Margin="10,0,0,0" Height="13"                      />
+                    <Image x:ConnectionId='41' Name="Down4" Source="Assets/CercleRougeVide.png" Margin="10,0,0,0" Height="13"                     />
+                    <Image x:ConnectionId='42' Name="Down3" Source="Assets/CercleRougeVide.png" Margin="10,0,0,0" Height="13"                     />
+                    <Image x:ConnectionId='43' Name="Down2" Source="Assets/CercleRougeVide.png" Margin="10,0,0,0" Height="13"                     />
+                    <Image x:ConnectionId='44' Name="Down1" Source="Assets/CercleRougeVide.png" Margin="10,0,0,0" Height="13"                     />
+                    <Image Source="Assets/CercleFull.png" Margin="10,0,0,0" Height="13"/>
+                    <Image x:ConnectionId='45' Name="Up1" Source="Assets/CercleVertVide.png" Margin="10,0,0,0" Height="13"                   />
+                    <Image x:ConnectionId='46' Name="Up2" Source="Assets/CercleVertVide.png" Margin="10,0,0,0" Height="13"                   />
+                    <Image x:ConnectionId='47' Name="Up3" Source="Assets/CercleVertVide.png" Margin="10,0,0,0" Height="13"                  />
+                    <Image x:ConnectionId='48' Name="Up4" Source="Assets/CercleVertVide.png" Margin="10,0,0,0" Height="13"                   />
+                    <Image x:ConnectionId='49' Name="Up5" Source="Assets/CercleVertVide.png" Margin="10,0,0,0" Height="13"                   />
+
+
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Assets/ThumbDown.png" Height="20" Width="18" NineGrid="0" Margin="60,0,0,0"/>
+                    <Image Source="Assets/ThumbUp.png" Height="20" Width="18" NineGrid="0" Margin="100,0,0,0"/>
+
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                    <Button x:ConnectionId='38' Height="30" Width="82" Background="#FFF83A70" Content="Commenter" RequestedTheme="Dark" FontSize="10.667" Margin="39,0,0,0"                       />
+                    <Button x:ConnectionId='39' Height="30" Width="82" Background="#FF268FB6" Content="Annuler" RequestedTheme="Dark" FontSize="10.667" Margin="39,0,0,0"                      />
+
+                </StackPanel>
+
+
+            </StackPanel>
+
+
+        </RelativePanel>
+
+    </Grid>
+</Page>
+

@@ -1,0 +1,480 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{1D25982F-FC84-4AC9-B460-A31835D97DE1}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>App4</RootNamespace>
+    <AssemblyName>App4</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetPlatformVersion>10.0.10586.0</TargetPlatformVersion>
+    <TargetPlatformMinVersion>10.0.10240.0</TargetPlatformMinVersion>
+    <MinimumVisualStudioVersion>14</MinimumVisualStudioVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{A5A43C5B-DE2A-4C0C-9213-0A381AF9435A};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PackageCertificateKeyFile>App4_TemporaryKey.pfx</PackageCertificateKeyFile>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>bin\ARM\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
+    <Content Include="ApplicationInsights.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="project.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AjouterProduit.xaml.cs">
+      <DependentUpon>AjouterProduit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CategorieArtisanat.cs" />
+    <Compile Include="CategorieMultimedia.cs" />
+    <Compile Include="CategorieService.cs" />
+    <Compile Include="Class1.cs" />
+    <Compile Include="InscriptionPage.xaml.cs">
+      <DependentUpon>InscriptionPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ListArtisanat.xaml.cs">
+      <DependentUpon>ListArtisanat.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ListImmobilier.xaml.cs">
+      <DependentUpon>ListImmobilier.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ListMultimedia.xaml.cs">
+      <DependentUpon>ListMultimedia.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ListNourriture.xaml.cs">
+      <DependentUpon>ListNourriture.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ListPublicationUser.xaml.cs">
+      <DependentUpon>ListPublicationUser.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ListService.xaml.cs">
+      <DependentUpon>ListService.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ListVetement.xaml.cs">
+      <DependentUpon>ListVetement.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MapPage.xaml.cs">
+      <DependentUpon>MapPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Artisanat.cs" />
+    <Compile Include="Models\Immobilier.cs" />
+    <Compile Include="Models\Multimedia.cs" />
+    <Compile Include="Models\Nourriture.cs" />
+    <Compile Include="Models\Comment.cs" />
+    <Compile Include="Models\Publication.cs" />
+    <Compile Include="Models\Raiting.cs" />
+    <Compile Include="Models\Recherche.cs" />
+    <Compile Include="Models\Service.cs" />
+    <Compile Include="Models\User.cs" />
+    <Compile Include="Models\Vehicule.cs" />
+    <Compile Include="Models\Vetement.cs" />
+    <Compile Include="NourritureCategorie.cs" />
+    <Compile Include="Panorama.xaml.cs">
+      <DependentUpon>Panorama.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Parametres.xaml.cs">
+      <DependentUpon>Parametres.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RecherchePage.xaml.cs">
+      <DependentUpon>RecherchePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RechercheResultPage.xaml.cs">
+      <DependentUpon>RechercheResultPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SampleConfiguration.cs" />
+    <Compile Include="SampleData.cs" />
+    <Compile Include="Scenario1.xaml.cs">
+      <DependentUpon>Scenario1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SignleProduct.xaml.cs">
+      <DependentUpon>SignleProduct.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Welcome.xaml.cs">
+      <DependentUpon>Welcome.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <None Include="App4_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\AllTunisia.png" />
+    <Content Include="Assets\Amar.png" />
+    <Content Include="Assets\Anas.png" />
+    <Content Include="Assets\Ariana.png" />
+    <Content Include="Assets\ArianaCouleur.png" />
+    <Content Include="Assets\ArianaFinal.png" />
+    <Content Include="Assets\Artisanat.png" />
+    <Content Include="Assets\ArtisanatS.png" />
+    <Content Include="Assets\back1.png" />
+    <Content Include="Assets\BackAll.jpg" />
+    <Content Include="Assets\Beja.png" />
+    <Content Include="Assets\BejaCouleur.png" />
+    <Content Include="Assets\BenArous.png" />
+    <Content Include="Assets\BenArousCouleur.png" />
+    <Content Include="Assets\Bizert.png" />
+    <Content Include="Assets\BizertCouleur.png" />
+    <Content Include="Assets\Bizerte.png" />
+    <Content Include="Assets\ble.png" />
+    <Content Include="Assets\bleCouleur.png" />
+    <Content Include="Assets\CategorieBabySitting.jpg" />
+    <Content Include="Assets\CategorieBle.png" />
+    <Content Include="Assets\CategorieBroderie.png" />
+    <Content Include="Assets\CategorieEducation.png" />
+    <Content Include="Assets\CategorieFruit.png" />
+    <Content Include="Assets\CategorieInformatique.png" />
+    <Content Include="Assets\CategorieLegumes.png" />
+    <Content Include="Assets\CategorieMenage.png" />
+    <Content Include="Assets\CategorieOeuf.png" />
+    <Content Include="Assets\CategoriePeinture.png" />
+    <Content Include="Assets\CategoriePoterie.png" />
+    <Content Include="Assets\CategorieReparation.png" />
+    <Content Include="Assets\CategorieSon.png" />
+    <Content Include="Assets\CategorieTappisserie.png" />
+    <Content Include="Assets\CategorieTelephone.png" />
+    <Content Include="Assets\Categorietv.png" />
+    <Content Include="Assets\CategorieViande.png" />
+    <Content Include="Assets\Categorie_Header.png" />
+    <Content Include="Assets\CercleFull.png" />
+    <Content Include="Assets\CercleRougeFull.png" />
+    <Content Include="Assets\CercleRougeVide.png" />
+    <Content Include="Assets\CercleVertFull.png" />
+    <Content Include="Assets\CercleVertVide.png" />
+    <Content Include="Assets\CercleVide.png" />
+    <Content Include="Assets\Cerise.jpg" />
+    <Content Include="Assets\Dattes.png" />
+    <Content Include="Assets\delete.jpg" />
+    <Content Include="Assets\delete.png" />
+    <Content Include="Assets\edit.png" />
+    <Content Include="Assets\Eggs.png" />
+    <Content Include="Assets\EggsCouleur.png" />
+    <Content Include="Assets\Epice.png" />
+    <Content Include="Assets\Epice1.jpg" />
+    <Content Include="Assets\Epice2.jpg" />
+    <Content Include="Assets\Epice3.jpg" />
+    <Content Include="Assets\Epice4.jpg" />
+    <Content Include="Assets\EpiceCouleur.png" />
+    <Content Include="Assets\Epices.jpg" />
+    <Content Include="Assets\Epine.png" />
+    <Content Include="Assets\FB.png" />
+    <Content Include="Assets\Fish.png" />
+    <Content Include="Assets\FishCouleur.png" />
+    <Content Include="Assets\fruit.png" />
+    <Content Include="Assets\fruitCouleur.png" />
+    <Content Include="Assets\Gabes.png" />
+    <Content Include="Assets\GabesCouleur.png" />
+    <Content Include="Assets\Gafsa.png" />
+    <Content Include="Assets\Gasfa.png" />
+    <Content Include="Assets\Gasserine.png" />
+    <Content Include="Assets\GasserineCouleur.png" />
+    <Content Include="Assets\Gbeli.png" />
+    <Content Include="Assets\GbeliCouleur.png" />
+    <Content Include="Assets\googleplus.png" />
+    <Content Include="Assets\Grenade.jpg" />
+    <Content Include="Assets\HeaderArtisanat.png" />
+    <Content Include="Assets\HeaderMultimedia.png" />
+    <Content Include="Assets\HeaderN.jpg" />
+    <Content Include="Assets\HeaderNourriture.png" />
+    <Content Include="Assets\Headerservice.png" />
+    <Content Include="Assets\Here.png" />
+    <Content Include="Assets\Homebtn.png" />
+    <Content Include="Assets\home_256.png" />
+    <Content Include="Assets\Honey.png" />
+    <Content Include="Assets\HoneyCouleur.png" />
+    <Content Include="Assets\Hub1.jpg" />
+    <Content Include="Assets\Hub2.jpg" />
+    <Content Include="Assets\Hub3.jpg" />
+    <Content Include="Assets\Hubs2.jpg" />
+    <Content Include="Assets\ibi3logo1.png" />
+    <Content Include="Assets\Icon.png" />
+    <Content Include="Assets\Immobilier.png" />
+    <Content Include="Assets\Jendouba.png" />
+    <Content Include="Assets\JendoubaCouleur.png" />
+    <Content Include="Assets\Karwen.png" />
+    <Content Include="Assets\KarwenCouleur.png" />
+    <Content Include="Assets\Kef.png" />
+    <Content Include="Assets\KefCouleur.png" />
+    <Content Include="Assets\KefFinal.png" />
+    <Content Include="Assets\Laitue.png" />
+    <Content Include="Assets\LoginBackground.jpg" />
+    <Content Include="Assets\LoginLock.png" />
+    <Content Include="Assets\Logobick.jpg" />
+    <Content Include="Assets\LogoutBtn.png" />
+    <Content Include="Assets\LogoutBtn2.png" />
+    <Content Include="Assets\loop.png" />
+    <Content Include="Assets\Mahdia.png" />
+    <Content Include="Assets\MahdiaCouleur.png" />
+    <Content Include="Assets\MahdiaFinal.png" />
+    <Content Include="Assets\Mail.png" />
+    <Content Include="Assets\Manouba.png" />
+    <Content Include="Assets\Mariem.jpg" />
+    <Content Include="Assets\Mednine.png" />
+    <Content Include="Assets\MednineCouleur.png" />
+    <Content Include="Assets\Mestir.png" />
+    <Content Include="Assets\MestirCouleur.png" />
+    <Content Include="Assets\MestirFInal.png" />
+    <Content Include="Assets\Mhamsa.JPG" />
+    <Content Include="Assets\Miel.jpg" />
+    <Content Include="Assets\Mlawi.jpg" />
+    <Content Include="Assets\Multimedia.png" />
+    <Content Include="Assets\Nabeul.png" />
+    <Content Include="Assets\NabeulCouleur.png" />
+    <Content Include="Assets\NabeulFinal.png" />
+    <Content Include="Assets\Notif.png" />
+    <Content Include="Assets\Nouri.png" />
+    <Content Include="Assets\Nourriture.png" />
+    <Content Include="Assets\NourritureS.png" />
+    <Content Include="Assets\oeufss.JPG" />
+    <Content Include="Assets\OpacityRect.png" />
+    <Content Include="Assets\OpacityRectDark.png" />
+    <Content Include="Assets\OpacityRectFlou.png" />
+    <Content Include="Assets\Pain.png" />
+    <Content Include="Assets\PainCouleur.png" />
+    <Content Include="Assets\Password.png" />
+    <Content Include="Assets\Pasteque.jpg" />
+    <Content Include="Assets\Peche.jpg" />
+    <Content Include="Assets\Pen.png" />
+    <Content Include="Assets\Poivrons.png" />
+    <Content Include="Assets\Pomme.jpg" />
+    <Content Include="Assets\Pommes.jpg" />
+    <Content Include="Assets\ProducerIMG.jpg" />
+    <Content Include="Assets\Rating.png" />
+    <Content Include="Assets\Roma.jpg" />
+    <Content Include="Assets\Services.png" />
+    <Content Include="Assets\SettingBtn.png" />
+    <Content Include="Assets\SettingBtn2.png" />
+    <Content Include="Assets\Sfax.png" />
+    <Content Include="Assets\SfaxCouleur.png" />
+    <Content Include="Assets\Sidibouzid.png" />
+    <Content Include="Assets\SidibouzidCouleur.png" />
+    <Content Include="Assets\SignInWith.png" />
+    <Content Include="Assets\Siliana.png" />
+    <Content Include="Assets\SilianaCouleur.png" />
+    <Content Include="Assets\Sousse.png" />
+    <Content Include="Assets\SousseCouleur.png" />
+    <Content Include="Assets\SousseFinal.png" />
+    <Content Include="Assets\Sta.png" />
+    <Content Include="Assets\star.png" />
+    <Content Include="Assets\starvide.png" />
+    <Content Include="Assets\Tapis1.jpg" />
+    <Content Include="Assets\Tapis2.jpg" />
+    <Content Include="Assets\Tapis3.jpg" />
+    <Content Include="Assets\TapisTradi.png" />
+    <Content Include="Assets\Tatawin.png" />
+    <Content Include="Assets\TatawinCouleur.png" />
+    <Content Include="Assets\Telephone.png" />
+    <Content Include="Assets\ThumbDown.png" />
+    <Content Include="Assets\ThumbUp.png" />
+    <Content Include="Assets\TLSLogo_redShadow.png" />
+    <Content Include="Assets\Tomate2.jpg" />
+    <Content Include="Assets\Tomate3.jpg" />
+    <Content Include="Assets\Tomates.png" />
+    <Content Include="Assets\Tozeur.png" />
+    <Content Include="Assets\TozeurCouleur.png" />
+    <Content Include="Assets\Tunis.png" />
+    <Content Include="Assets\TunisCouleur.png" />
+    <Content Include="Assets\TunisFinal.png" />
+    <Content Include="Assets\Tunisia.png" />
+    <Content Include="Assets\Tunisia2.png" />
+    <Content Include="Assets\Tunisia3.jpg" />
+    <Content Include="Assets\TunisiaVide.png" />
+    <Content Include="Assets\twitter.png" />
+    <Content Include="Assets\UserHraderImg.png" />
+    <Content Include="Assets\Veget.png" />
+    <Content Include="Assets\VegetCouleur.png" />
+    <Content Include="Assets\Vehicule.png" />
+    <Content Include="Assets\Vetement.png" />
+    <Content Include="Assets\ViewPager1.jpg" />
+    <Content Include="Assets\ViewPager2.jpg" />
+    <Content Include="Assets\ViewPager3.jpg" />
+    <Content Include="Assets\ViewPager4.jpg" />
+    <Content Include="Assets\Wheel.png" />
+    <Content Include="Assets\Zaghwen.png" />
+    <Content Include="Assets\ZaghwenCouleur.png" />
+    <Content Include="ListItemBack.png" />
+    <Content Include="Properties\Default.rd.xml" />
+    <Content Include="Assets\LockScreenLogo.scale-200.png" />
+    <Content Include="Assets\SplashScreen.scale-200.png" />
+    <Content Include="Assets\Square150x150Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
+    <Content Include="Assets\StoreLogo.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="AjouterProduit.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="InscriptionPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ListArtisanat.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ListImmobilier.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ListMultimedia.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ListNourriture.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ListPublicationUser.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ListService.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ListVetement.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MapPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Panorama.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Parametres.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RecherchePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RechercheResultPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Scenario1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="SignleProduct.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Welcome.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <SDKReference Include="WindowsMobile, Version=10.0.10240.0">
+      <Name>Windows Mobile Extensions for the UWP</Name>
+    </SDKReference>
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
+    <VisualStudioVersion>14.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

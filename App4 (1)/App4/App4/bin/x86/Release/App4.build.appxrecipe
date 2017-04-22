@@ -1,0 +1,702 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ADM</Machine>
+    <WindowsUser>admon</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>0beca742-2bb9-4c2d-84f6-2d0fce7912da</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\App4.dll">
+      <PackagePath>App4.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\App4.exe">
+      <PackagePath>App4.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\ApplicationInsights.config">
+      <PackagePath>ApplicationInsights.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\AllTunisia.png">
+      <PackagePath>Assets\AllTunisia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Amar.png">
+      <PackagePath>Assets\Amar.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Anas.png">
+      <PackagePath>Assets\Anas.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Ariana.png">
+      <PackagePath>Assets\Ariana.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\ArianaCouleur.png">
+      <PackagePath>Assets\ArianaCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\ArianaFinal.png">
+      <PackagePath>Assets\ArianaFinal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Artisanat.png">
+      <PackagePath>Assets\Artisanat.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\ArtisanatS.png">
+      <PackagePath>Assets\ArtisanatS.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\back1.png">
+      <PackagePath>Assets\back1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\BackAll.jpg">
+      <PackagePath>Assets\BackAll.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Beja.png">
+      <PackagePath>Assets\Beja.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\BejaCouleur.png">
+      <PackagePath>Assets\BejaCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\BenArous.png">
+      <PackagePath>Assets\BenArous.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\BenArousCouleur.png">
+      <PackagePath>Assets\BenArousCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Bizert.png">
+      <PackagePath>Assets\Bizert.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\BizertCouleur.png">
+      <PackagePath>Assets\BizertCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Bizerte.png">
+      <PackagePath>Assets\Bizerte.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\ble.png">
+      <PackagePath>Assets\ble.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\bleCouleur.png">
+      <PackagePath>Assets\bleCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\CategorieBabySitting.jpg">
+      <PackagePath>Assets\CategorieBabySitting.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\CategorieBle.png">
+      <PackagePath>Assets\CategorieBle.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\CategorieBroderie.png">
+      <PackagePath>Assets\CategorieBroderie.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\CategorieEducation.png">
+      <PackagePath>Assets\CategorieEducation.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\CategorieFruit.png">
+      <PackagePath>Assets\CategorieFruit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\CategorieInformatique.png">
+      <PackagePath>Assets\CategorieInformatique.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\CategorieLegumes.png">
+      <PackagePath>Assets\CategorieLegumes.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\CategorieMenage.png">
+      <PackagePath>Assets\CategorieMenage.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\CategorieOeuf.png">
+      <PackagePath>Assets\CategorieOeuf.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\CategoriePeinture.png">
+      <PackagePath>Assets\CategoriePeinture.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\CategoriePoterie.png">
+      <PackagePath>Assets\CategoriePoterie.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\CategorieReparation.png">
+      <PackagePath>Assets\CategorieReparation.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\CategorieSon.png">
+      <PackagePath>Assets\CategorieSon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\CategorieTappisserie.png">
+      <PackagePath>Assets\CategorieTappisserie.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\CategorieTelephone.png">
+      <PackagePath>Assets\CategorieTelephone.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Categorietv.png">
+      <PackagePath>Assets\Categorietv.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\CategorieViande.png">
+      <PackagePath>Assets\CategorieViande.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Categorie_Header.png">
+      <PackagePath>Assets\Categorie_Header.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\CercleFull.png">
+      <PackagePath>Assets\CercleFull.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\CercleRougeFull.png">
+      <PackagePath>Assets\CercleRougeFull.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\CercleRougeVide.png">
+      <PackagePath>Assets\CercleRougeVide.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\CercleVertFull.png">
+      <PackagePath>Assets\CercleVertFull.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\CercleVertVide.png">
+      <PackagePath>Assets\CercleVertVide.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\CercleVide.png">
+      <PackagePath>Assets\CercleVide.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Cerise.jpg">
+      <PackagePath>Assets\Cerise.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Dattes.png">
+      <PackagePath>Assets\Dattes.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Eggs.png">
+      <PackagePath>Assets\Eggs.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\EggsCouleur.png">
+      <PackagePath>Assets\EggsCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Epice.png">
+      <PackagePath>Assets\Epice.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Epice1.jpg">
+      <PackagePath>Assets\Epice1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Epice2.jpg">
+      <PackagePath>Assets\Epice2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Epice3.jpg">
+      <PackagePath>Assets\Epice3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Epice4.jpg">
+      <PackagePath>Assets\Epice4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\EpiceCouleur.png">
+      <PackagePath>Assets\EpiceCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Epices.jpg">
+      <PackagePath>Assets\Epices.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Epine.png">
+      <PackagePath>Assets\Epine.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\FB.png">
+      <PackagePath>Assets\FB.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Fish.png">
+      <PackagePath>Assets\Fish.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\FishCouleur.png">
+      <PackagePath>Assets\FishCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\fruit.png">
+      <PackagePath>Assets\fruit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\fruitCouleur.png">
+      <PackagePath>Assets\fruitCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Gabes.png">
+      <PackagePath>Assets\Gabes.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\GabesCouleur.png">
+      <PackagePath>Assets\GabesCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Gafsa.png">
+      <PackagePath>Assets\Gafsa.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Gasfa.png">
+      <PackagePath>Assets\Gasfa.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Gasserine.png">
+      <PackagePath>Assets\Gasserine.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\GasserineCouleur.png">
+      <PackagePath>Assets\GasserineCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Gbeli.png">
+      <PackagePath>Assets\Gbeli.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\GbeliCouleur.png">
+      <PackagePath>Assets\GbeliCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\googleplus.png">
+      <PackagePath>Assets\googleplus.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Grenade.jpg">
+      <PackagePath>Assets\Grenade.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\HeaderArtisanat.png">
+      <PackagePath>Assets\HeaderArtisanat.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\HeaderMultimedia.png">
+      <PackagePath>Assets\HeaderMultimedia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\HeaderN.jpg">
+      <PackagePath>Assets\HeaderN.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\HeaderNourriture.png">
+      <PackagePath>Assets\HeaderNourriture.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Headerservice.png">
+      <PackagePath>Assets\Headerservice.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Here.png">
+      <PackagePath>Assets\Here.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Homebtn.png">
+      <PackagePath>Assets\Homebtn.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\home_256.png">
+      <PackagePath>Assets\home_256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Honey.png">
+      <PackagePath>Assets\Honey.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\HoneyCouleur.png">
+      <PackagePath>Assets\HoneyCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Hub1.jpg">
+      <PackagePath>Assets\Hub1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Hub2.jpg">
+      <PackagePath>Assets\Hub2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Hub3.jpg">
+      <PackagePath>Assets\Hub3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Hubs2.jpg">
+      <PackagePath>Assets\Hubs2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Icon.png">
+      <PackagePath>Assets\Icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Immobilier.png">
+      <PackagePath>Assets\Immobilier.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Jendouba.png">
+      <PackagePath>Assets\Jendouba.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\JendoubaCouleur.png">
+      <PackagePath>Assets\JendoubaCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Karwen.png">
+      <PackagePath>Assets\Karwen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\KarwenCouleur.png">
+      <PackagePath>Assets\KarwenCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Kef.png">
+      <PackagePath>Assets\Kef.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\KefCouleur.png">
+      <PackagePath>Assets\KefCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\KefFinal.png">
+      <PackagePath>Assets\KefFinal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Laitue.png">
+      <PackagePath>Assets\Laitue.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\LoginBackground.jpg">
+      <PackagePath>Assets\LoginBackground.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\LoginLock.png">
+      <PackagePath>Assets\LoginLock.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Logobick.jpg">
+      <PackagePath>Assets\Logobick.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\LogoutBtn.png">
+      <PackagePath>Assets\LogoutBtn.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\LogoutBtn2.png">
+      <PackagePath>Assets\LogoutBtn2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\loop.png">
+      <PackagePath>Assets\loop.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Mahdia.png">
+      <PackagePath>Assets\Mahdia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\MahdiaCouleur.png">
+      <PackagePath>Assets\MahdiaCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\MahdiaFinal.png">
+      <PackagePath>Assets\MahdiaFinal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Mail.png">
+      <PackagePath>Assets\Mail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Manouba.png">
+      <PackagePath>Assets\Manouba.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Mariem.jpg">
+      <PackagePath>Assets\Mariem.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Mednine.png">
+      <PackagePath>Assets\Mednine.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\MednineCouleur.png">
+      <PackagePath>Assets\MednineCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Mestir.png">
+      <PackagePath>Assets\Mestir.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\MestirCouleur.png">
+      <PackagePath>Assets\MestirCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\MestirFInal.png">
+      <PackagePath>Assets\MestirFInal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Mhamsa.JPG">
+      <PackagePath>Assets\Mhamsa.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Miel.jpg">
+      <PackagePath>Assets\Miel.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Mlawi.jpg">
+      <PackagePath>Assets\Mlawi.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Multimedia.png">
+      <PackagePath>Assets\Multimedia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Nabeul.png">
+      <PackagePath>Assets\Nabeul.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\NabeulCouleur.png">
+      <PackagePath>Assets\NabeulCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\NabeulFinal.png">
+      <PackagePath>Assets\NabeulFinal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Notif.png">
+      <PackagePath>Assets\Notif.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Nouri.png">
+      <PackagePath>Assets\Nouri.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Nourriture.png">
+      <PackagePath>Assets\Nourriture.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\NourritureS.png">
+      <PackagePath>Assets\NourritureS.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\oeufss.JPG">
+      <PackagePath>Assets\oeufss.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\OpacityRect.png">
+      <PackagePath>Assets\OpacityRect.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\OpacityRectDark.png">
+      <PackagePath>Assets\OpacityRectDark.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\OpacityRectFlou.png">
+      <PackagePath>Assets\OpacityRectFlou.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Pain.png">
+      <PackagePath>Assets\Pain.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\PainCouleur.png">
+      <PackagePath>Assets\PainCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Password.png">
+      <PackagePath>Assets\Password.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Pasteque.jpg">
+      <PackagePath>Assets\Pasteque.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Peche.jpg">
+      <PackagePath>Assets\Peche.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Pen.png">
+      <PackagePath>Assets\Pen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Poivrons.png">
+      <PackagePath>Assets\Poivrons.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Pomme.jpg">
+      <PackagePath>Assets\Pomme.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Pommes.jpg">
+      <PackagePath>Assets\Pommes.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\ProducerIMG.jpg">
+      <PackagePath>Assets\ProducerIMG.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Rating.png">
+      <PackagePath>Assets\Rating.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Roma.jpg">
+      <PackagePath>Assets\Roma.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Services.png">
+      <PackagePath>Assets\Services.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\SettingBtn.png">
+      <PackagePath>Assets\SettingBtn.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\SettingBtn2.png">
+      <PackagePath>Assets\SettingBtn2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Sfax.png">
+      <PackagePath>Assets\Sfax.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\SfaxCouleur.png">
+      <PackagePath>Assets\SfaxCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Sidibouzid.png">
+      <PackagePath>Assets\Sidibouzid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\SidibouzidCouleur.png">
+      <PackagePath>Assets\SidibouzidCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\SignInWith.png">
+      <PackagePath>Assets\SignInWith.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Siliana.png">
+      <PackagePath>Assets\Siliana.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\SilianaCouleur.png">
+      <PackagePath>Assets\SilianaCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Sousse.png">
+      <PackagePath>Assets\Sousse.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\SousseCouleur.png">
+      <PackagePath>Assets\SousseCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\SousseFinal.png">
+      <PackagePath>Assets\SousseFinal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Sta.png">
+      <PackagePath>Assets\Sta.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Tapis1.jpg">
+      <PackagePath>Assets\Tapis1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Tapis2.jpg">
+      <PackagePath>Assets\Tapis2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Tapis3.jpg">
+      <PackagePath>Assets\Tapis3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\TapisTradi.png">
+      <PackagePath>Assets\TapisTradi.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Tatawin.png">
+      <PackagePath>Assets\Tatawin.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\TatawinCouleur.png">
+      <PackagePath>Assets\TatawinCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Telephone.png">
+      <PackagePath>Assets\Telephone.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\ThumbDown.png">
+      <PackagePath>Assets\ThumbDown.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\ThumbUp.png">
+      <PackagePath>Assets\ThumbUp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\TLSLogo_redShadow.png">
+      <PackagePath>Assets\TLSLogo_redShadow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Tomate2.jpg">
+      <PackagePath>Assets\Tomate2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Tomate3.jpg">
+      <PackagePath>Assets\Tomate3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Tomates.png">
+      <PackagePath>Assets\Tomates.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Tozeur.png">
+      <PackagePath>Assets\Tozeur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\TozeurCouleur.png">
+      <PackagePath>Assets\TozeurCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Tunis.png">
+      <PackagePath>Assets\Tunis.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\TunisCouleur.png">
+      <PackagePath>Assets\TunisCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\TunisFinal.png">
+      <PackagePath>Assets\TunisFinal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Tunisia.png">
+      <PackagePath>Assets\Tunisia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Tunisia2.png">
+      <PackagePath>Assets\Tunisia2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Tunisia3.jpg">
+      <PackagePath>Assets\Tunisia3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\TunisiaVide.png">
+      <PackagePath>Assets\TunisiaVide.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\twitter.png">
+      <PackagePath>Assets\twitter.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\UserHraderImg.png">
+      <PackagePath>Assets\UserHraderImg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Veget.png">
+      <PackagePath>Assets\Veget.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\VegetCouleur.png">
+      <PackagePath>Assets\VegetCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Vehicule.png">
+      <PackagePath>Assets\Vehicule.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Vetement.png">
+      <PackagePath>Assets\Vetement.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\ViewPager1.jpg">
+      <PackagePath>Assets\ViewPager1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\ViewPager2.jpg">
+      <PackagePath>Assets\ViewPager2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\ViewPager3.jpg">
+      <PackagePath>Assets\ViewPager3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\ViewPager4.jpg">
+      <PackagePath>Assets\ViewPager4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Wheel.png">
+      <PackagePath>Assets\Wheel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\Zaghwen.png">
+      <PackagePath>Assets\Zaghwen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\Assets\ZaghwenCouleur.png">
+      <PackagePath>Assets\ZaghwenCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\ClrCompression.dll">
+      <PackagePath>ClrCompression.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\ListItemBack.png">
+      <PackagePath>ListItemBack.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\">
+      <Name>Microsoft.NET.Native.Framework.1.2</Name>
+      <Version>1.2.23231.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.2, MinVersion = 1.2.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\.\arm\ret\Native\Microsoft.NET.Native.Framework.1.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\">
+      <Name>Microsoft.NET.Native.Framework.1.2</Name>
+      <Version>1.2.23231.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.2, MinVersion = 1.2.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\.\x64\ret\Native\Microsoft.NET.Native.Framework.1.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\">
+      <Name>Microsoft.NET.Native.Framework.1.2</Name>
+      <Version>1.2.23231.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.2, MinVersion = 1.2.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\.\x86\ret\Native\Microsoft.NET.Native.Framework.1.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23406.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23406.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\ARM\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23406.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23406.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\x64\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23406.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23406.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\x86\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

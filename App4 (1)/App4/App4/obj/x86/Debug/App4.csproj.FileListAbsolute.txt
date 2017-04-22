@@ -1,0 +1,1072 @@
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\App.g.i.cs
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\App.g.cs
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Welcome.g.i.cs
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Welcome.g.cs
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\MainPage.g.cs
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\App.xaml
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Welcome.xaml
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\MainPage.xaml
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\App.xbf
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Welcome.xbf
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\MainPage.xbf
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\ApplicationInsights.config
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\App.xbf
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\Welcome.xbf
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\MainPage.xbf
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\App4.xr.xml
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\App4.exe
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\App4.pdb
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\resources.pri
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\AppxManifest.xml
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\Core\App4.exe
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\App4.build.appxrecipe
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Core.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Net.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Numerics.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Windows.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Xml.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.AppContext.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Collections.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Data.Common.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Globalization.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.IO.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\ClrCompression.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Linq.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Net.Http.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Private.Networking.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Reflection.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Runtime.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Threading.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\App4.exe
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\App4.pdb
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\priconfig.xml
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\layout.resfiles
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\resources.resfiles
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\pri.resfiles
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\qualifiers.txt
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Scenario1.g.i.cs
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Scenario1.g.cs
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Scenario1.xaml
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Scenario1.xbf
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\Scenario1.xbf
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListNourriture.xaml
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListNourriture.xbf
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListNourriture.g.i.cs
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListNourriture.g.cs
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\ListNourriture.xbf
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\App4.csprojResolveAssemblyReference.cache
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\SignleProduct.g.i.cs
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\SignleProduct.g.cs
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\SignleProduct.xaml
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\SignleProduct.xbf
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\SignleProduct.xbf
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\RecherchePage.g.i.cs
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\RecherchePage.g.cs
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\RecherchePage.xaml
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\RecherchePage.xbf
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\RecherchePage.xbf
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Parametres.g.i.cs
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Parametres.g.cs
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Parametres.xaml
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Parametres.xbf
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\Parametres.xbf
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\MapPage.xbf
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\MapPage.g.i.cs
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\MapPage.g.cs
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\MapPage.xaml
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\MapPage.xbf
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\Panorama.xbf
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Panorama.g.i.cs
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Panorama.g.cs
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Panorama.xaml
+C:\Users\Barbouche Hassan\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Panorama.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\App.g.i.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\App.g.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListArtisanat.g.i.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListArtisanat.g.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListNourriture.g.i.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListNourriture.g.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\MapPage.g.i.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\MapPage.g.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Panorama.g.i.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Panorama.g.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Parametres.g.i.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Parametres.g.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\RecherchePage.g.i.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\RecherchePage.g.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Scenario1.g.i.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Scenario1.g.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\SignleProduct.g.i.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\SignleProduct.g.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Welcome.g.i.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Welcome.g.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\MainPage.g.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\App.xaml
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListArtisanat.xaml
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListNourriture.xaml
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\MapPage.xaml
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Panorama.xaml
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Parametres.xaml
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\RecherchePage.xaml
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Scenario1.xaml
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\SignleProduct.xaml
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Welcome.xaml
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\MainPage.xaml
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\App.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListArtisanat.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListNourriture.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\MapPage.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Panorama.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Parametres.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\RecherchePage.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Scenario1.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\SignleProduct.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\Welcome.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\MainPage.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\App4.csprojResolveAssemblyReference.cache
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\ApplicationInsights.config
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\App.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\ListArtisanat.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\ListNourriture.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\MapPage.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\Panorama.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\Parametres.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\RecherchePage.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\Scenario1.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\SignleProduct.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\Welcome.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\MainPage.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\App4.xr.xml
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\App4.exe
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\App4.pdb
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\resources.pri
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\AppxManifest.xml
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\Core\App4.exe
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\App4.build.appxrecipe
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Core.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Net.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Numerics.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Windows.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Xml.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.AppContext.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Collections.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Data.Common.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Globalization.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.IO.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\ClrCompression.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Linq.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Net.Http.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Private.Networking.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Reflection.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Runtime.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Threading.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\App4.exe
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\App4.pdb
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\priconfig.xml
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\layout.resfiles
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\resources.resfiles
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\pri.resfiles
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\qualifiers.txt
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\ListService.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListService.g.i.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListService.g.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListService.xaml
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListService.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\ListImmobilier.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListImmobilier.g.i.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListImmobilier.g.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListImmobilier.xaml
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListImmobilier.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\ListMultimedia.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListMultimedia.g.i.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListMultimedia.g.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListMultimedia.xaml
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListMultimedia.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\ListVetement.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListVetement.g.i.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListVetement.g.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListVetement.xaml
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\ListVetement.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\RechercheResultPage.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\RechercheResultPage.g.i.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\RechercheResultPage.g.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\RechercheResultPage.xaml
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\RechercheResultPage.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\InscriptionPage.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\InscriptionPage.g.i.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\InscriptionPage.g.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\InscriptionPage.xaml
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\InscriptionPage.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\bin\x86\Debug\AjouterProduit.xbf
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\AjouterProduit.g.i.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\AjouterProduit.g.cs
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\AjouterProduit.xaml
+C:\Users\admon\Documents\Visual Studio 2015\Projects\App4\App4\obj\x86\Debug\AjouterProduit.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\ApplicationInsights.config
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\App.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\AjouterProduit.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\InscriptionPage.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\ListArtisanat.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\ListImmobilier.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\ListMultimedia.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\ListNourriture.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\ListService.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\ListVetement.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\MapPage.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\Panorama.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\Parametres.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\RecherchePage.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\RechercheResultPage.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\Scenario1.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\SignleProduct.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\Welcome.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\MainPage.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\App4.xr.xml
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\App4.exe
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\App4.pdb
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\resources.pri
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\AppxManifest.xml
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\Core\App4.exe
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\App4.build.appxrecipe
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Core.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Net.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Numerics.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Windows.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Xml.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.AppContext.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Collections.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Data.Common.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Globalization.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.IO.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\ClrCompression.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Linq.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Net.Http.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Private.Networking.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Reflection.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Runtime.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Threading.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\App.g.i.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\App.g.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\AjouterProduit.g.i.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\AjouterProduit.g.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\InscriptionPage.g.i.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\InscriptionPage.g.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\ListArtisanat.g.i.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\ListArtisanat.g.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\ListImmobilier.g.i.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\ListImmobilier.g.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\ListMultimedia.g.i.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\ListMultimedia.g.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\ListNourriture.g.i.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\ListNourriture.g.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\ListService.g.i.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\ListService.g.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\ListVetement.g.i.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\ListVetement.g.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\MapPage.g.i.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\MapPage.g.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\Panorama.g.i.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\Panorama.g.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\Parametres.g.i.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\Parametres.g.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\RecherchePage.g.i.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\RecherchePage.g.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\RechercheResultPage.g.i.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\RechercheResultPage.g.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\Scenario1.g.i.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\Scenario1.g.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\SignleProduct.g.i.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\SignleProduct.g.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\Welcome.g.i.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\Welcome.g.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\MainPage.g.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\App.xaml
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\AjouterProduit.xaml
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\InscriptionPage.xaml
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\ListArtisanat.xaml
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\ListImmobilier.xaml
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\ListMultimedia.xaml
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\ListNourriture.xaml
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\ListService.xaml
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\ListVetement.xaml
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\MapPage.xaml
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\Panorama.xaml
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\Parametres.xaml
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\RecherchePage.xaml
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\RechercheResultPage.xaml
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\Scenario1.xaml
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\SignleProduct.xaml
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\Welcome.xaml
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\MainPage.xaml
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\App.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\AjouterProduit.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\InscriptionPage.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\ListArtisanat.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\ListImmobilier.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\ListMultimedia.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\ListNourriture.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\ListService.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\ListVetement.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\MapPage.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\Panorama.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\Parametres.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\RecherchePage.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\RechercheResultPage.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\Scenario1.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\SignleProduct.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\Welcome.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\MainPage.xbf
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\App4.exe
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\App4.pdb
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\priconfig.xml
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\layout.resfiles
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\resources.resfiles
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\pri.resfiles
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\qualifiers.txt
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\hayfa\Documents\Visual Studio 2015\SecondFolderForProjects\App4 (1)\App4\App4\obj\x86\Debug\App4.csprojResolveAssemblyReference.cache
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\App.g.i.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\App.g.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\AjouterProduit.g.i.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\AjouterProduit.g.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\InscriptionPage.g.i.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\InscriptionPage.g.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListArtisanat.g.i.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListArtisanat.g.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListImmobilier.g.i.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListImmobilier.g.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListMultimedia.g.i.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListMultimedia.g.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListNourriture.g.i.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListNourriture.g.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListService.g.i.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListService.g.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListVetement.g.i.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListVetement.g.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\MapPage.g.i.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\MapPage.g.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\Panorama.g.i.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\Panorama.g.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\Parametres.g.i.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\Parametres.g.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\RecherchePage.g.i.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\RecherchePage.g.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\RechercheResultPage.g.i.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\RechercheResultPage.g.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\Scenario1.g.i.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\Scenario1.g.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\SignleProduct.g.i.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\SignleProduct.g.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\Welcome.g.i.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\Welcome.g.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\MainPage.g.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\App.xaml
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\AjouterProduit.xaml
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\InscriptionPage.xaml
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListArtisanat.xaml
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListImmobilier.xaml
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListMultimedia.xaml
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListNourriture.xaml
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListService.xaml
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListVetement.xaml
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\MapPage.xaml
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\Panorama.xaml
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\Parametres.xaml
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\RecherchePage.xaml
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\RechercheResultPage.xaml
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\Scenario1.xaml
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\SignleProduct.xaml
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\Welcome.xaml
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\MainPage.xaml
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\App.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\AjouterProduit.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\InscriptionPage.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListArtisanat.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListImmobilier.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListMultimedia.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListNourriture.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListService.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListVetement.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\MapPage.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\Panorama.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\Parametres.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\RecherchePage.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\RechercheResultPage.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\Scenario1.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\SignleProduct.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\Welcome.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\MainPage.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\ApplicationInsights.config
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\App.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\AjouterProduit.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\InscriptionPage.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\ListArtisanat.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\ListImmobilier.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\ListMultimedia.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\ListNourriture.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\ListService.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\ListVetement.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\MapPage.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\Panorama.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\Parametres.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\RecherchePage.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\RechercheResultPage.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\Scenario1.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\SignleProduct.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\Welcome.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\MainPage.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\App4.xr.xml
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\App4.exe
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\App4.pdb
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\resources.pri
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\AppxManifest.xml
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\Core\App4.exe
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\App4.build.appxrecipe
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Core.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Net.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Numerics.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Windows.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Xml.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.AppContext.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Collections.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Data.Common.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Globalization.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.IO.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\ClrCompression.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Linq.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Net.Http.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Private.Networking.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Reflection.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Runtime.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Threading.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\App4.exe
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\App4.pdb
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\priconfig.xml
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\layout.resfiles
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\resources.resfiles
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\pri.resfiles
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\qualifiers.txt
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\App4.csprojResolveAssemblyReference.cache
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListPublicationUser.g.i.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListPublicationUser.g.cs
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListPublicationUser.xaml
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\obj\x86\Debug\ListPublicationUser.xbf
+C:\Users\waelh\Desktop\ala\pimAvecImage\App4 (1)\App4\App4\bin\x86\Debug\ListPublicationUser.xbf
